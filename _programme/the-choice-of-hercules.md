@@ -8,8 +8,9 @@ image: /assets/images/screen-shot-2016-04-11-at-22-03-35.png
 composers:
     - George Frideric Handel
 ---
-Handel: Let thy hand be strengthened
-Handel: The Choice of Hercules
+> Handel: Let thy hand be strengthened  
+> Handel: The Choice of Hercules  
+{: .blockquoteCantandum }
 
 The Choice of Hercules is a gem of a piece.  Handel’s English oratorios were not confined to sacred subjects – indeed there are several on the themes of classical mythology, notably Semele(which is an opera in all but name), Acis and Galatea and The Choice of Hercules.  The latter, at about 50 minutes long, is the shortest of Handel’s dramatic works and the music is largely recycled from incidental music to a play based on Euripides’ Alceste, abandoned some six months previously, possibly as a result of an argument between the playwright and the theatre manager.
 
