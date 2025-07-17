@@ -15,7 +15,7 @@
     "clean": "rm -rf _site",
     "build": "npm run clean && npm run build:assets",
     "jekyll:build": "bundle exec jekyll build",
-    "deploy": "npm run clean && npm run build && npm run purgecss && npm run jekyll:build"
+    "deploy": "npm run start"
   },
   "keywords": [],
   "author": "",
