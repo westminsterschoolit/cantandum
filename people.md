@@ -5,7 +5,7 @@ permalink: /people/
 description: A list of the current members of the Cantandum Singers, including their roles and contributions.
 keywords: people, members, Cantandum Singers
 author: Cantandum Singers
-image: /assets/images/cantandum-summer-21.jpg
+image: /assets/images/cantandum-summer-21.webp
 
 ---
 ## Soprano

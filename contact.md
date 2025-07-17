@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Us
+permalink: /contact-us/
 ---
 
 <section class="container my-5 py-5">
