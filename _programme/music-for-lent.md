@@ -13,11 +13,12 @@ composers:
     - Johann Sebastian Bach
 ---
 
-Victoria Tenebrae Responsories for Maundy Thursday
-Poulenc Timor et Tremor; Vinea mea electa
-Palestrina Stabat Mater
-Sanders Reproaches
-Bach Komm Jesu, komm
+> Victoria Tenebrae Responsories for Maundy Thursday  
+> Poulenc Timor et Tremor; Vinea mea electa  
+> Palestrina Stabat Mater  
+> Sanders Reproaches  
+> Bach Komm Jesu, komm  
+{: .blockquoteCantandum }
 
 Tomás Luis de Victoria (1548-1611) was the greatest Spanish Renaissance composer and one of the leading figures of church music.  After 21 years in Rome and his ordination in 1575, he became chaplain to the Dowager Empress Maria in Madrid; he remained at the royal convent of the Barefooted Nuns of St Clare, first as choirmaster and later as organist, until his death 24 years later.  His music ranks with the greatest masterpieces of the Renaissance, and is characterised by a mystical intensity and direct emotional appeal.  The Responsories, published in 1585, were sung at Tenebrae during Holy Week to texts, 18 in total, which trace the story of the Passion.  The six we hear tonight are those for Maundy Thursday.  They are raw and poignant settings of bleak texts and are characterised by energy, vitality and, at times, an almost unbearable sense of pain.  The music was written for liturgical performance and keeps strictly to the repeats prescribed by tradition: an opening section and a second section, both for four voices; a third section for fewer voices, and a repeat of the second section – ABCB.  The power of the music lies in the balance between words and setting. The mood is introverted and spiritually intense, with extreme simplicity and directness of style.
 
