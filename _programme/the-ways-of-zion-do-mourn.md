@@ -12,6 +12,7 @@ composers:
 > Funeral music for the Duke of Marlborough and for Queen Caroline
 > Bononcini When Saul was King over us 
 > Handel The ways of Zion do mourn
+{: .blockquoteCantandum }
 
 Giovanni Bononcini (1670-1747) arrived in London from Rome in the autumn of 1720 to take up his post as one of the composers for the newly-formed opera company, known as the Royal Academy of Music, which had opened earlier that year.  He was respected as one of Europe’s foremost musicians, composing regularly for the Academy where his works dominated the first two seasons.  It is perhaps not surprising that when John Churchill, Duke of Marlborough, died in June 1722, Bononcini should have been asked to write music for his funeral, particularly since the then Dean of Westminster had Jacobean leanings and the alternative composer, Handel, had close links with the Hanoverian court.  A public rehearsal of Bononcini’s anthem and other music was held in the Henry VII chapel on 7 August, with the funeral taking place two days later.  It was a very grand occasion; the anthem was performed by ‘38 pieces of music and as many singers’, all Gentlemen of the Chapel Royal; the cost of the funeral amounted to an astronomical £5,265, for which Bononcini received the sum of £100, a very high fee indeed for such a short composition.  The final chorus, ‘Howl, o ye fir trees’ is the most notable movement, with moving descending phrases on ‘for the cedar is fall’n’.
 

@@ -12,6 +12,7 @@ composers:
 > Purcell *Welcome to all the Pleasures*  
 > Britten *Hymn to St Cecilia*  
 > Purcell *Come, ye sons of art, away!*
+{: .blockquoteCantandum }
 
 St Cecilia, the patroness of music, is celebrated in paintings by Raphael, Rubens and Poussin and in verse by, amongst others, John Dryden OW, Christopher Fishburn and W.H. Auden.  The occasion of her feast-day, 22 November, provided some fine works by a number of composers including Henry Purcell (1659–1695) and Benjamin Britten (1913-1976).  As an historical figure almost nothing is known about her for certain and her existence seems doubtful.  She is said to have been a patrician woman who had vowed her virginity to God; this did not prevent her marriage to a nobleman Valerian, but she persuaded him to a chaste marriage and also converted him and his brother to Christianity.  Not long afterwards she and the brothers were martyred. The traditional account of her life is famous as the Second Nun’s Tale in Chaucer’s Canterbury Tales.  She was venerated as a martyr from the late 5th century but her connection with music did not emerge for another thousand years and is thought to have originated from the antiphon taken from her Acts: ‘as the organs were playing, Cecilia sung (in her heart) to the Lord, saying: may my heart remain unsullied, so that I be not confounded’.
 

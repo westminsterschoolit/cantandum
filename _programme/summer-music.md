@@ -11,10 +11,11 @@ composers:
     - Zoltán Kodály
     - Johann Baptist Vanhal
 ---
-Vautor Sweet Suffolk Owl
-Gibbons The Silver Swan
-Kodály Matra Pictures
-Vanhal Missa Pastoralis (possible UK première) 
+> Vautor *Sweet Suffolk Owl*  
+> Gibbons *The Silver Swan*  
+> Kodály *Matra Pictures*  
+> Vanhal *Missa Pastoralis* (possible UK première)  
+{: .blockquoteCantandum }
 
 English madrigals are set to secular texts and usually describe the pains and pleasures of love and the beauties of nature.  They encouraged stylistic developments that culminated in the baroque period, particularly those which involved the expressive relationship between text and music, and are one of the most important genres of the late Renaissance.
 

@@ -12,11 +12,13 @@ composers:
     - Johann Sebastian Bach
 ---
 A programme of music looking forward to the season of Advent
-Guerrero Canite tuba
-Gibbons This is the record of John
-Brahms O Heiland, reiss die Himmel auf
-Mendelssohn Ave Maria
-Bach Wachet auf (cantata 140)
+
+> Guerrero *Canite tuba*  
+> Gibbons *This is the record of John*  
+> Brahms *O Heiland, reiss die Himmel auf*  
+> Mendelssohn *Ave Maria*  
+> Bach *Wachet auf* (cantata 140)  
+{: .blockquoteCantandum }
 
 Francisco Guerrero (1528-1599) studied music with his elder brother Pedro in Seville and was engaged as a contralto at the cathedral where he remained until, aged only 17, he was invited to become the maestro de capilla of Jaén cathedral.  In 1549 he returned to Seville as a singer; he later became assistant to the maestro there and also obtained a papal brief that granted him the right to succeed.  He published 18 masses and 150 motets and was the only composer to publish widely abroad whilst making his career in Spain and his music was widely performed in Spain and Latin America for more than two centuries after his death.  Canite tuba dates from 1570; the text is from Joel 2:1 and Isaiah 11:4 ‘Blow up the trumpet in Sion, for the day of God is near at hand’.  As with all Guerrero’s canonic feats there is a clear harmonic impulse and the voices move so smoothly and effortlessly that the technical complexities pass unnoticed by the listener.
 

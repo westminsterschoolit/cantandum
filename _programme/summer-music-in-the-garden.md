@@ -8,8 +8,9 @@ composers:
     - G.F. Handel
     - F.J. Haydn
 ---
-G.F. Handel Chandos Anthem 10: The Lord is my light
-F.J. Haydn: Missa Sancti Nicolai
+> G.F. Handel Chandos Anthem 10: The Lord is my light
+> F.J. Haydn: Missa Sancti Nicolai
+{: .blockquoteCantandum }
 
 Handel’s eleven Chandos Anthems were written for James Brydges, the first Duke of Chandos, who made his fortune as Paymaster-General in Marlborough’s Wars and maintained a musical establishment in his household at Canons Park, Edgware.  Although the nature of Handel’s connection there is not entirely clear, the quantity of music composed for the Duke suggests that he was essentially a Composer-in-Residence in the period 1717-18.  It seems the resources there, initially at least, were modest: in many of the scores from the period both altos and violas are largely absent and the anthems have a delightful chamber music quality.  The Lord is my light, the 10th anthem, is set for SATB chorus and an orchestra of violins, bassi, organ and a single oboe; the alto chorus parts are low and might have been sung by tenors at the time.
 

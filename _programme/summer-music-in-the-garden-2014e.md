@@ -10,10 +10,11 @@ composers:
     - Felix Mendelssohn
     - George Frideric Handel
 ---
-Mozart Missa brevis in D minor, K65
-Schütz Psalm 100
-Mendelssohn Am Himmelfahrtstage; Psalm 43
-Handel Utrecht Te Deum
+> Mozart Missa brevis in D minor, K65
+> Schütz Psalm 100
+> Mendelssohn Am Himmelfahrtstage; Psalm 43
+> Handel Utrecht Te Deum
+{: .blockquoteCantandum }
 
 Wolfgang Amadeus Mozart (1756-1791) was 13 when he composed the Missa Brevis in D minor, in response to a commission by the Archbishop of Salzburg for a commemorative mass.  The Archbishop, Hieronymous von Collerado, was a proponent of a more modest musical style, as demonstrated by the very brevity of this Missa Brevis.  Influences of J.C. Bach and the Galante style can be heard.  The choral writing is mostly homophonic, with the alto, tenor and bass parts doubled by trombones and with violins providing lively and idiomatic accompaniment; the vocal solos are brief interjections within movements.
 
