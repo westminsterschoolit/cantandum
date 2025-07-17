@@ -31,7 +31,7 @@ jobs:
         run: npm install
 
       - name: Build CSS with npm script
-        run: npm run deploy
+        run: npm run start
 
       # Uncomment if you want to run Jekyll build explicitly
       # - name: Build Jekyll site
