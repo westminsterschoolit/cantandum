@@ -18,6 +18,3 @@ Thumbs.db
 # dotenv environment variables
 .env
 .env.*
-assets/css/
-assets/webfonts/
-assets/js
