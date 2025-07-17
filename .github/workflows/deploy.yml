@@ -19,7 +19,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.4' # Or your specific Ruby version, e.g., '3.2'
-          bundler-cache: false # Installs gems from Gemfile.lock (or Gemfile if lock not present)
+          bundler-cache: true # Installs gems from Gemfile.lock (or Gemfile if lock not present)
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
