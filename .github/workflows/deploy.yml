@@ -22,8 +22,8 @@ jobs:
           ruby-version: '3.4.3'
           bundler-cache: true
 
-      - name: Install Jekyll # This step is likely redundant if bundler-cache is true and jekyll is in Gemfile
-        run: gem install jekyll bundler
+    #   - name: Install Jekyll # This step is likely redundant if bundler-cache is true and jekyll is in Gemfile
+    #     run: gem install jekyll bundler
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
