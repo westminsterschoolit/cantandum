@@ -1,0 +1,22 @@
+---
+title: The Choice of Hercules
+layout: default
+details: true
+venue: Ashburnham Garden
+date: 20080613
+image: /assets/images/screen-shot-2016-04-11-at-22-03-35.png
+composers:
+    - George Frideric Handel
+---
+Handel: Let thy hand be strengthened
+Handel: The Choice of Hercules
+
+The Choice of Hercules is a gem of a piece.  Handel’s English oratorios were not confined to sacred subjects – indeed there are several on the themes of classical mythology, notably Semele(which is an opera in all but name), Acis and Galatea and The Choice of Hercules.  The latter, at about 50 minutes long, is the shortest of Handel’s dramatic works and the music is largely recycled from incidental music to a play based on Euripides’ Alceste, abandoned some six months previously, possibly as a result of an argument between the playwright and the theatre manager.
+
+The story is a simple allegory.  Hercules, a youth, is approached by Pleasure and Virtue with their respective claims.  Pleasure, in two successive arias, offers him a characteristic 18th-century bower of bliss, with ‘numerous sparkling rills’, rich odours, cool fountains, shady groves, a bed of flowers, ‘embathed in bliss and wrapt in ease’.  Hercules is urged by Pleasure and the chorus to ‘seize these blessings… be hail’d the rose-crown’d king of joy, and reign on Pleasure’s downy throne’.  Virtue rebukes Pleasure in somewhat peremptory tones: ‘Away, mistaken wretch!  This manly youth’s exalted mind, Above thy grov’ling taste refined, Shall listen to my awful voice’ and bids him assert his heavenly race, ‘level pride’s high-plumed crest, And bravely succour the distrest’.  The chorus first urges Hercules to follow the path of Virtue, but Pleasure soon rallies the crowds with her ‘Turn thee, youth, to joy and love, why, ah why this fond delay?’  Hercules is at first unenamoured of the prospect of the virtuous life (‘Yet, can I hear that dulcet lay’) and the Attendant on Pleasure responds with a persuasive vision of the Elysian Fields.  This leads to a masterly trio in which Hercules’ cries of ‘Where shall I go?’ are answered by the two competing goddesses each with their conflicting instructions.  In the end Hercules is won over by the promise of immortality – ‘among the Gods a God’  – and sets himself with Virtue to ‘mount the steep ascent’.  The final chorus, in G minor, leaves the listener in what the Handel scholar Winton Dean describes as the ‘emphatic if paradoxical conviction that the hero’s loss far outweighs his gain’.  Handel certainly allowed no hint of jubilation or enjoyment of Virtue’s promised rewards, suggesting that whilst Hercules might have made the morally correct decision, it is not wholly a matter for rejoicing.
+
+As we might expect, Pleasure, being Pleasure, gets the better of the music, and it has been suggested that Virtue’s rather more perfunctory offering is perhaps representative of Handel’s distaste for the primness of the subject matter.
+
+The story originated from Xenophon’s Memoirs of Socrates, where it is presented as a summary of a lost poem by Prodicus of Ceos.  As the philosopher A.C. Grayling elegantly puts it, the story is too good ever to have been neglected in subsequent moral and even political symbolisations: it was applied to different heroes and was incorporated into Christian teaching (one reworking of it has Christ in the wilderness for forty days, but with only one would-be seducer). Poussin, Veronese, Paolo de Matteis and Rubens painted it; Handel, his English contemporaries Greene and Stanley as well as J.S. Bach put it to music; the revolutionary fathers of the United States wanted to represent it on their coinage; and the French revolutionaries proposed to build a giant statue of virtue-choosing Hercules in central Paris as an emblem of their new order.  Handel’s libretto was adapted from Joseph Spence’s Polymetis by the composer’s regular collaborator, Thomas Morrell, who in some cases had the more difficult task of fitting the libretto to the existing Alceste music.
+
+Let thy hand be strengthened, which starts tonight’s concert, was written for the coronation of King George II in 1727.  The text is from psalm 89. The opening movement has an air of expansive confidence whilst the middle movement (‘Let justice and judgement be the preparation of thy seat.  Let mercy and truth go before thy face’) is a little more introspective in character.  The short anthem ends with a dignified ‘Alleluia.’

@@ -1,0 +1,81 @@
+---
+layout: default
+title: Programme Notes
+permalink: /programme-notes/
+description: A collection of programme notes from past performances of the Cantandum Singers.
+keywords: programme, notes, performances, Cantandum Singers
+author: Cantandum Singers
+pagination: 
+  enabled: true
+  collection: programme
+---
+<div class="container mt-4">
+    <img src="{{site.baseurl}}/assets/images/banner.png" alt="Programme Notes" class="img-fluid mb-4">
+
+    <table class="table table-striped programme-table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Venue</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in paginator.posts %}
+                <tr>
+                    <td>{{ item.date | date: "%A, %d %B %Y" }}</td>
+                    <td>
+                        {% if item.details == true %}
+                            <a href="{{site.baseurl}}{{ item.url }}">{{ item.title }}</a> <i class="fas fa-info-circle"></i>
+                        {% else %}
+                            {{ item.title }}
+                        {% endif %}
+                    </td>
+                    <td>{{ item.venue }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    {% if paginator.total_pages > 1 %}
+        <nav aria-label="Page navigation" class="mt-5">
+            <ul class="pagination justify-content-center">
+                {% if paginator.previous_page %}
+                    <li class="page-item">
+                        <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
+                    </li>
+                {% else %}
+                    <li class="page-item disabled">
+                        <span class="page-link">Previous</span>
+                    </li>
+                {% endif %}
+
+                {% for pager in paginator.pagination %}
+                    {% if pager.is_active %}
+                        <li class="page-item active" aria-current="page">
+                            <span class="page-link">{{ pager.num }} <span class="sr-only">(current)</span></span>
+                        </li>
+                    {% elsif pager.is_ellipsis %}
+                        <li class="page-item disabled">
+                            <span class="page-link">&hellip;</span>
+                        </li>
+                    {% else %}
+                        <li class="page-item">
+                            <a class="page-link" href="{{ pager.url | relative_url }}">{{ pager.num }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+
+                {% if paginator.next_page %}
+                    <li class="page-item">
+                        <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Next</a>
+                    </li>
+                {% else %}
+                    <li class="page-item disabled">
+                        <span class="page-link">Next</span>
+                    </li>
+                {% endif %}
+            </ul>
+        </nav>
+    {% endif %}
+</div>

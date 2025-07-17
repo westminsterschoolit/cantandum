@@ -1,0 +1,30 @@
+<section id="programmes" class="py-5">
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                {% assign sorted_programmes = site.programme | sort: "date" | reverse %}
+                {% assign count = 0 %}
+                {% for programme in sorted_programmes %}
+                    {% if programme.image %}
+                        <div class="col-md-4 mb-4">
+                            
+                                <div class="card h-100">
+                                    <img src="{{site.baseurl}}{{ programme.image }}" class="card-img-top img-fluid" alt="{{ programme.title | escape }}" style="height: 250px; object-fit: cover; width: 100%;">
+                                    <div class="card-body">
+                                        <a href="{{ programme.url | relative_url }}" class="text-decoration-none text-reset extended-link"><h5 class="card-title">{{ programme.title }}</h5></a>
+                                        {% if programme.date %}
+                                            <p class="card-text"><small class="text-muted">{{ programme.date | date: "%B %d, %Y" }}</small></p>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                        </div>
+                        {% assign count = count | plus: 1 %}
+                        {% if count == 6 %}
+                            {% break %}
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>

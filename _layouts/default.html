@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% seo %}
+    <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    {% include header.html %}
+
+<main class="mt-5">
+    <section id="banner">
+        <div class="container-fluid banner py-2">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 text-left">
+                        <h1 class="display-3 fw-bold">{{ page.title }}</h1>
+                        {% if page.date %}
+                            <p class="text-muted">{{ page.date | date: "%B %d, %Y" }}</p>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {% if page.image %}
+    <section id="page-image">
+        <div class="container my-4">
+            <div class="row justify-content-center">
+                <div class="col-md-8 text-center py-2">
+                    <img src="{{ page.image | relative_url }}" alt="{{ page.title }} image" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </section>
+    {% endif %}
+
+    <section id="page-content" class="py-5">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    {% include crest.html %}
+  
+    {% if page.venue %}
+        {% include map.html placename=page.venue %}
+    {% endif %}
+
+    {% if page.composers %}
+    <section id="composers-list py-5 ">
+        <div class="container-fluid composers-list text-dark bg-grey py-3">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
+                        <h2>Composers</h2>
+                        <ul>
+                            {% for composer in page.composers %}
+                                <li>{{ composer }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% endif %}
+</main>
+
+{% include footer.html %}
+
+<script type="module" src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+---
+title: Thomas Linley the Younger Ode on the Spirits of Shakespeare
+layout: default
+details: true
+venue: Ashburnham garden
+date: 20100611
+image: /assets/images/screen-shot-2016-04-11-at-21-57-16.png
+composers:
+  - Thomas Linley
+---
+The complexities of artistic and social ideas that we call the Romantic Movement originated in mid-eighteenth-century England.  English artists and poets began to concern themselves with nature in the raw, with exoticism, and with the remote past.  Shakespeare’s plays were crucial texts for the early Romantics, with Macbeth and A Midsummer Night’s Dream catering for a new interest in the supernatural.  Shakespeare’s plays had never entirely dropped out of the theatrical repertory in England, except for the Civil War and Commonwealth period when the theatres were closed.  After the Restoration some of them were revived and the texts made to conform to Augustan ideas of order, symmetry and propriety.  In the 1740s David Garrick created a new interest in Shakespeare with a revolutionary naturalistic style of acting.  He devised and organised a bizarre three-day Shakespeare Jubilee at Stratford in 1769, where effusive poetic tributes to Shakespeare were preferred to the Bard’s own words; the proceedings were musical rather than thespian.
+
+Thomas Linley (1756-1778) was the second child and eldest son of Thomas senior, a singing teacher, concert organiser and composer resident in Bath. Thomas Snr’s prodigiously talented children were soon playing a prominent role in city life in the 1740s and young Tom was playing violin concertos at the age of seven and an accomplished young composer in his early teens; he studied with Boyce and then in Florence, where he met Mozart.  On his return, he rapidly became a leading figure in London’s musical life before his death, aged 22, in a boating accident.
+
+The text for Linley’s Shakespeare Ode came from a youthful essay by French Lawrence (1757-1809), first written at Winchester as a school exercise and set by Linley in a revised and extended form.  It is an evocation of the supernatural element in Shakespeare’s plays, more concerned with the creation of wild, pre-Romantic  atmospheres than with precise meaning.  Nevertheless, a plot of sorts can be discerned.  The chorus begins by addressing the ‘guardian of that sacred land/where Avon’s wood-crown’d waters stray’.  In turn, the Spirit of Avon summons Fancy, who describes how Jove entrusted the infant Shakespeare to her care.  Shakespeare’s youth ‘in old Arden’s inmost shade’ is described, and then the poet embarks on an evocation of the fairy atmosphere in A Midsummer Night’s Dream, conducted with phraseology derived more from Milton than from Shakespeare.
+
+In part 2 the skies suddenly darken, and attention shifts to the gothic horror of Macbeth; the bass acts as a fearful but questioning observer to the ‘deeds without a name’ of the witches.  The day dawns, and rationalism dawns with it; in the clear light of the eighteenth century, the poet seems to say, elves have ceased to chase ‘with printless pace’, and Ariel no longer sails ‘along the sky’ (his flight memorably portrayed in the aria with oboe obbligato).  The problem, the sopranos sing in their duet, is that no-one can ‘wield like Shakespeare’s skilful hand/That magic wand, whose potent sway/The elves of earth, of sea, and air obey’.  The chorus ends the work by calling on Fancy to ‘give another Shakespeare to our isle’.
+
+Like much English music of the period, the Shakespeare Ode is eclectic in style.  The first two movements of the Overture are in the archaic French Baroque pattern, a dotted introduction followed by a fine extended fugue (reviewed at the time as ‘masterly’); then comes a minuet with prominent writing for oboes and horns in the modern German symphonic styles.  In the succeeding airs and choruses Linley’s music has echoes of Purcell (in the first and last choruses), Handel (in a number of the arias), Thomas Arne (notable in the duet ‘For who can yield’) and J.C. Bach (the exquisite arias ‘There in old Arden’s inmost shade’ and ‘Ariel, who sees thee now’).  Yet Linley’s own compositional voice is never swamped by his musical heritage, and in the chorus ‘What howling whirlwinds’ he produced an astonishing evocation of early Romanticism that looks forward to Weber, Mendelssohn and even Berlioz.
+
+The last word can be left to a writer in A Dictionary of Musicians (1824): ‘Neither Purcell not Mozart ever gave stronger proofs of original genius than could be traced in this charming ode.  The rich variety of contrast in the witch and fairy music, the wild solemnity of the one, and the sportive exuberance of the other, keep the attention alive from the first bar of the overture to the close of the ode’.
+
+Peter Holman ©1992
+(reproduced with permission)

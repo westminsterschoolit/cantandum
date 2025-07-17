@@ -1,0 +1,18 @@
+---
+title: Music for Easter
+layout: default
+details: true
+venue: St Stephen’s Rochester Row
+date: 20100303
+composers:
+    - Jean Lhéritier
+    - John Stainer
+---
+Lhéritier Surrexit pastor bonus
+Stainer The Crucifixion
+
+Jean Lhéritier (1480-c1552) was a French Renaissance composer noted mostly for his composition of motets in anticipation of the style of Palestrina.  It is likely that he was a pupil of Jean Mouton.  In 1521 he was appointed chaplain and choirmaster at the church of St Louis des Français in Rome; around 1530 he moved back to France as choirmaster to the papal legate at Avignon, the Cardinal of Clermont, who granted him several lucrative prebends.  The manuscript containing Surrexit pastor bonus (as well as six other pieces by Lhéritier) was a working choirbook for the Julian Chapel in the Vatican and is a major source for motets by composers of the post-Josquin generation.  Dated 1536, it bears the coat of arms of Pope Paul III (1534-49).  Lhéritier’s music was highly regarded in the sixteenth century as is evident from the number and geographical diversity of sources in which his music is found.  Surrexit pastor bonus is a motet for Easter day: ‘The good shepherd, who laid down his life for his sheep, has risen, and he did not disdain to die for his flock.  For truly was Christ the paschal lamb sacrificed for us.  Alleluia’
+
+Sir John Stainer (1840-1901) was organist at St Paul’s Cathedral and professor of music at Oxford, but he also made it his special vocation to provide good music for ‘parish choirs of moderate abilities’, publishing a number of anthems and hymns and showing an expertise in drawing emotion and depth out of straightforward melody and harmony.  The Crucifixion is modelled on the great Passions of J.S. Bach and vividly portrays the events of the Passion of Christ.  Scored for tenor and bass soloists, mixed choir and organ, the piece combines recitatives, solos and masterful choruses to superb effect.  The libretto alternates biblical prose narrative with newly-composed verse expressing a Christian’s response to the successive events, a procedure taken directly from the Bach oratorios.  Stainer plays down the dramatic events of the passion story, depicting a very human Jesus in Gethsemane; the prevailing message of the work is one of rebuke for humanity’s indifference to Christ’s sacrifice.
+
+The piece opens with a dramatic recitative followed by the ambitious Processional to Calvary described as if by a Christian bystander.  The latter features a long organ introduction starting with a quiet march which forms the recurring rondo theme, after which the choir enters with a cry of ‘Fling wide the gates’.  A lyrical tenor solo follows, ‘How sweet is the grace of his sacred face,’ before the insistent chorus breaks in and finally recedes into the distance.  The crucifixion is introduced in the first of the congregational hymns, ‘Cross of Jesus’ whilst the Majesty of the Divine Humiliation displays a very wide emotional range with loud organ chords set against the prevailing mood of sympathy, depicting the event as a triumph.  God so loved the world, which follows, is a stunning movement of simple ternary form.  The emotional duet, So thou liftest thy divine petition, is almost Wagnerian whereas the death of Christ is set in comparatively plain harmony.  The libretto was written by W.J. Sparrow-Simpson, the son of a colleague at St Paul’s, and the work received its premiere at St Marylebone parish church in 1887.  The piece has outlived almost all church music of its period, endearing itself to many generations despite somewhat harsh judgements by critics and historians.

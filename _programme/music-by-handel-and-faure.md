@@ -1,0 +1,22 @@
+---
+title: Music by Handel and Fauré
+layout: default
+details: true
+venue: St Margaret’s Westminster
+date: 20141127
+image: /assets/images/screen-shot-2016-04-11-at-21-30-38.png
+composers:
+    - George Frideric Handel
+    - Gabriel Fauré
+---
+Handel Let thy Hand be strengthened
+Handel O praise the Lord with one consent
+Fauré Requiem
+
+George Frideric Handel (1685-1759) was one of the greatest composers of the baroque age and was a cosmopolitan and eclectic artist. Born in Germany, he became a British subject in 1727.
+
+The coronation of King George II and Queen Caroline took place in October 1727 ‘with great magnificence, the queen being ablaze from head to foot with jewels, most of them hired’.  The musical aspect of the service was dominated by Handel’s four orchestrally-accompanied anthems.  Notes taken during the service by the Archbishop of Canterbury suggest that the music did not go entirely smoothly, possibly because of confusion between rival Orders of Service, possibly because of poor sightlines between the performers, and indeed possibly because of a poor-quality choir.  The text for Let thy hand be strengthened is from Psalm 89. The opening movement has an air of expansive confidence whilst the middle movement – ‘Let justice and judgement be the preparation of thy seat’ – is more melancholic in character.  The short anthem ends with a dignified ‘Alleluia.’  The music is ceremonial rather than profound, but the spaciousness, energy and architectural splendour of this very public utterance were exactly appropriate and it has never been surpassed in its kind – as confirmed by the use of one or more of these anthems at every subsequent British coronation.
+
+In the summer of 1717 Handel became resident composer to the Earl of Carnarvon (later the first Duke of Chandos), for whom he composed eleven anthems, two masques and the Chandos Te Deum.  Interestingly this music makes very little use of altos or violas (there is no viola in tonight’s anthem, and the alto solo is usually sung by a tenor), presumably because of lack of suitable musicians at the time.  The anthems were composed for the English equivalent of a small German court and reflect both the urbane worldliness and the mixture of pomp and intimacy at Cannons, the Duke’s country seat. The text of O praise the Lord with one consent comes from the metrical New Version of the Psalms.  There is no independent overture.  The opening line of the first number is taken from the great hymn tune St Anne, whilst the second part of this movement is more fugal in character, with a lengthy, self-contained theme in one voice heard against counter-subjects in imitation.  The St Anne hymn tune appears again in long note-values in the fifth movement, the choral ‘sing solemn hymns with praise’, whilst the final two choruses are a triumphal ‘exalt your maker’s fame’ and an affirmatory ‘Ye voices raise, ye cherubim and seraphin, to sing his praise, alleluia’.  The arias are brief and straightforward, although there are very effective contrasts between them.
+
+The music of Gabriel Fauré (1845-1924) was perhaps the epitome of fin de siècle French elegance.  The most advanced composer of his generation, Fauré developed a personal style that had considerable influence on many early 20th century composers.  The Requiem dates from 1888 and the intimacy of the scoring – four violas, four cellos, solo violin and organ – was a deliberate reaction against that of Berlioz, which he detested because of its use of massed forces to emphasize the horror of purgatorial suffering.  Fauré produces the opposite: serene, sensuous and melodic, in which ‘the human spirit, awed yet secure in its own innocence and capacity to overcome suffering, progresses calmly towards its inevitable, rapt entry into Paradise’.  The composition dates from 1887, although it was not performed in England until 1936.  Other than the Kyrie, the text is in Latin.  Fauré did not set the Gradual and Tract sections of the mass and also omitted the Sequence (Dies irae, Rex tremendae, Lacrimosa) and substantially changed the text of the Offertory: instead of ‘libera animas omnium fidelium defunctorum (deliver the souls of all the faithful departed), he set ‘libera animas defunctorum’ (deliver the souls of the departed), a major theological change.  ‘Everything I managed to entertain by way of religious illusion I put into my Requiem, which moreover is dominated from beginning to end by a very human feeling of faith in eternal rest.’ (Fauré – a life in letters, J Barrie Jones).

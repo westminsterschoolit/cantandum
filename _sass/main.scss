@@ -1,0 +1,120 @@
+// _sass/main.scss
+
+
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap.scss";
+// ... (your existing imports)
+
+@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "@fortawesome/fontawesome-free/scss/solid.scss";   // For solid icons
+@import "@fortawesome/fontawesome-free/scss/brands.scss";  // For brand icons
+// Add other styles like regular or light if needed
+// Define your custom variables before importing Bootstrap if you want to override defaults
+$primary: #032e47;   // Westminster Blue
+$secondary: #fde5eb; // Light Pink/Cream
+$white: #ffffff;     // Pure White
+$black: #000000;     // Pure Black
+
+// Add your custom styles here
+body {
+    font-family: 'Roboto', sans-serif; // Use Roboto font
+    color: $primary;
+    background-color: $white;
+}
+
+.navbar {
+    background-color: $primary;
+    .nav-link {
+        color: $white !important;
+        &:hover {
+            color: $secondary !important;
+        }
+    }
+    .navbar-brand {
+        color: $white !important;
+        font-weight: bold;
+    }
+}
+
+.hero-section {
+    background-color: $secondary;
+    color: $primary;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.section-title {
+    color: $primary;
+    margin-bottom: 40px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,.05);
+    .card-title {
+        color: $primary;
+    }
+}
+
+footer {
+    background-color: $primary;
+    color: $white;
+    height: 400px;
+    a {
+        color: $white;
+        &:hover {
+            color: $secondary;
+        }
+    }
+}
+
+
+table.programme-table a {
+    color: $primary;
+    text-decoration: underline;
+    text-decoration-color: $secondary;
+    text-decoration-thickness: 3px; // Makes the underline bolder
+    &:hover {
+        color: darken($primary, 10%);
+        text-decoration-color: darken($secondary, 10%);
+        text-decoration-thickness: 4px; // Even bolder on hover
+    }
+}
+
+.blockquoteCantandum {
+  color: #5f9ea0;
+//   font-family: Sorts Mill Goudy,serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+.mb-4.text-white.fw-bold.front-text {
+  font-size: 6vw; line-height: 1.1; text-align: center;
+}
+
+.main-message {
+  background-color: #032e47;
+  color: #fff;
+  background-image: linear-gradient(to bottom, rgba(3, 46, 71, 0.95), rgba(3, 46, 71, 0.95)),url("https://westminsterschoolit.github.io/usa-foundation/assets/images/NEW-Westminster-School-crest-blackwhite-600dpi.png");
+  background-size: auto 80%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bg-blue {
+  background-color: #032e47 !important;
+}   
+ul.list-unstyled {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+.bg-grey {
+    background-color: #999ca1b6 !important; // Light grey background
+}
