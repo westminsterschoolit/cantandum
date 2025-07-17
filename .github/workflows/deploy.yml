@@ -1,34 +1,52 @@
-name: Build and Deploy to GitHub Pages
+# .github/workflows/deploy.yml
+name: Build and Deploy Jekyll Site
 
 on:
-    push:
-        branches:
-            - main
+  push:
+    branches:
+      - main # Or 'master' if that's your default branch
 
 jobs:
-    build-and-deploy:
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
+  build_and_deploy:
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
+    permissions:
+        contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-            - name: Set up Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: '18'
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.x' # Or your specific Ruby version, e.g., '3.2'
+          bundler-cache: true # Installs gems from Gemfile.lock (or Gemfile if lock not present)
 
-            - name: Install dependencies
-              run: npm ci
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Use a recent LTS Node.js version
 
-            - name: Build site
-              run: npm run deploy
+      - name: Install npm dependencies
+        run: npm install # Installs devDependencies for Sass/PostCSS build
 
-            - name: Deploy to GitHub Pages
-              uses: peaceiris/actions-gh-pages@v4
-              with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
-                  publish_dir: ./_site
-                  publish_branch: gh-pages
-                  enable_jekyll: false
+      - name: Build CSS with npm script
+        # This assumes your 'build' script in package.json handles Sass and PostCSS
+        run: npm run build
+
+      - name: Build Jekyll site
+        # Jekyll will build the site into the _site directory
+        # The npm run build script already includes jekyll:build,
+        # so this step is just to re-emphasize or if you prefer separate runs.
+        # If 'npm run build' already runs 'jekyll:build', you can skip this.
+        run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Automatically provided by GitHub Actions
+          publish_dir: ./_site # The directory Jekyll outputs to
+          publish_branch: gh-pages # The branch you want to deploy to (common for User/Org Pages)
+          # if your GitHub Pages is served from the 'main' branch's root, use:
+          # publish_branch: main
+          # cname: example.com # Uncomment and set if you use a custom domain
+          # force_orphan: true # Recommended to ensure the gh-pages branch only contains build artifacts
