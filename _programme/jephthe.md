@@ -9,9 +9,10 @@ composers:
     - George Frideric Handel
     - Giacomo Carissimi
 ---
-Greene O think what Joy to him is giv’n; Pity soothing melts the soul; Our prayers with God acceptance find; Thou, universal Lord; God of hosts whom we adore; Here let me hold thee to my heart
+> Greene O think what Joy to him is giv’n; Pity soothing melts the soul; Our prayers with God acceptance find; Thou, universal Lord; God of hosts whom we adore; Here let me hold thee to my heart
 Handel Deeper and deeper still; How dark, O Lord, are thy decrees
 Carissimi Jephte (semi-staged performance)
+{: .blockquoteCantandum}
 
 The biblical story of Jephtha comes from the Book of Judges, chapter 11 vv 29-40. Jephtha, the illegitimate son of Gilead, was on his father’s death scorned and thrown out of Israel by his half-brothers. He had been living in Tob with his wife and daughter when the Ammonites attacked Israel and began a long and bitter war. Before leaving for the war, he vowed unto God that if he were to return home victorious, ‘whoever is the first to come through the doors of my house’ to meet him would be given as a sacrifice. He was indeed victorious, but he was met on his return not by a slave or an animal but by his only child.
 

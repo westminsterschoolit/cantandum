@@ -8,23 +8,27 @@ composers:
     - George Frideric Handel
     - Wolfgang Amadeus Mozart
 ---
-A masque in two acts
+A masque in two acts. 
+
 Music by G.F. Handel; arranged by W.A. Mozart (K 566)
-Libretto by John Gay
 
-Galatea, a sea-nymph:  Rebecca Bottone
-Acis, a shepherd:             John McMunn
-Damon, a shepherd:       Robert Murray
-Polyphemus, a giant:     Vojtech Safarik
+### Cast
+Libretto by John Gay  
+Galatea, a sea-nymph: Rebecca Bottone  
+Acis, a shepherd: John McMunn  
+Damon, a shepherd: Robert Murray  
+Polyphemus, a giant: Vojtech Safarik  
 
-Cantandum Joanna Benson, Gilly French, Lydia McLean, Helen Prentice, Fiona Sharp, Jessica Streeting, Gabrielle Ward-Smith soprano; Lesley Batty, Lucy Chambers, Barbara Davies, Carolyn Pascall, Catharine Robertson alto; Jeremy Kemball, Teehan Page, William Petter, Kevin Walsh tenor; Chris Hodges, Tom Kennedy, Aidan Sproat bass.
+### Cantandum
+
+Joanna Benson, Gilly French, Lydia McLean, Helen Prentice, Fiona Sharp, Jessica Streeting, Gabrielle Ward-Smith soprano; Lesley Batty, Lucy Chambers, Barbara Davies, Carolyn Pascall, Catharine Robertson alto; Jeremy Kemball, Teehan Page, William Petter, Kevin Walsh tenor; Chris Hodges, Tom Kennedy, Aidan Sproat bass.
 
 The London Mozart Players
 
 Semi-staging: John Arthur
 Conductor: Richard Dickins
 
-a concert with Bampton Classical Opera
+### A concert with Bampton Classical Opera
 
 Handel composed two entirely different short dramatic works on this mythical tale of love, death, and metamorphosis (after Ovid). In 1708, during his short but productive stay in Italy, he composed a ‘serenata’ entitled Aci, Galatea, e Polifemo. The present work followed in about 1720, and is a ‘Masque’, composed for the delectation of the Duke of Chandos, for whom Handel worked at Cannons; it was originally given by very small forces, possibly no more than seven instruments, and with soloists singing the choruses.
 

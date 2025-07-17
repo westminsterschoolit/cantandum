@@ -12,10 +12,12 @@ composers:
     - Ralph Vaughan Williams
 ---
 A concert in aid of the bell appeal at St Stephen’s Rochester Row
-Victoria Officium defunctorum
-Purcell Rejoice in the Lord
-Vierne Carillon de Westminster
-Vaughan Williams Three Shakespeare Songs
+
+> Victoria Officium defunctorum
+> Purcell Rejoice in the Lord
+> Vierne Carillon de Westminster
+> Vaughan Williams Three Shakespeare Songs
+{: .blockquoteCantandum}
 
 Tomás Luis de Victoria (1548-1611) was the greatest Spanish Renaissance composer and one of the leading figures of church music.  After 21 years in Rome and his ordination in 1575, he became chaplain to the Dowager Empress Maria in Madrid; he remained at the royal convent of the Barefooted Nuns of St Clare, first as choirmaster and later as organist, until his death 24 years later.  His music ranks with the greatest masterpieces of the Renaissance, and is characterised by a mystical intensity and direct emotional appeal.
 

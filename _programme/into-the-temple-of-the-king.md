@@ -9,9 +9,10 @@ composers:
     - Anton Bruckner
     - Antonio Caldara
 ---
-Purcell Funeral Music for Queen Mary
-Bruckner Afferentur regi; Ecce sacerdos
-Caldara Missa dolorosa
+> Purcell Funeral Music for Queen Mary
+> Bruckner Afferentur regi; Ecce sacerdos
+> Caldara Missa dolorosa
+{: .blockquoteCantandum}
 
 Into the Temple of the King takes its title from a line in Bruckner’s Afferentur regi and its inspiration from the deep sonorities of the combination of voices and trombones.  In Caldara’s Missa dolorosa, as with a number of the composer’s other works, the alto and tenor choral lines are doubled throughout by alto and tenor trombones, giving rise to a depth and timbre of sound that is both rich and astounding.  Purcell’s Funeral Music for Queen Mary continues our loosely Lenten theme, complete with the brass canzonas that help make the piece so hauntingly memorable.  Having found three trombones it seemed only sensible to put them to good work, and we make no excuses for the non-Lenten theme of the Bruckner motets.  They are highly appropriate for the occasion, being on the themes of worship and priesthood.
 

@@ -7,19 +7,19 @@ date: 20060608
 composers:
   - Henry Purcell
 ---
-Dido                         Fiona Sharp
-Belinda                    Joanna Benson
-Second woman     Jessica Streeting
-Aeneas                    Tom Kennedy
-Sorceress                Teehan Page
-First witch              Carolyn Pascall
-Second witch         William Leigh Knight
-Sailor                       Kevin Walsh
-Spirit                        Jeremy Kemball
-Chorus                    The Company
-Director                   John Arthur
+- **Dido:** Fiona Sharp
+- **Belinda:** Joanna Benson
+- **Second Woman:** Jessica Streeting
+- **Aeneas:** Tom Kennedy
+- **Sorceress:** Teehan Page
+- **First Witch:** Carolyn Pascall
+- **Second Witch:** William Leigh Knight
+- **Sailor:** Kevin Walsh
+- **Spirit:** Jeremy Kemball
+- **Chorus:** The Company
+- **Director:** John Arthur
 
-A semi-staged concert performance of Purcell’s opera
+### A semi-staged concert performance of Purcell’s opera
 
 Henry Purcell (1659 – 1695), believed to be an OW, became organist of Westminster Abbey in 1679. His exceptional genius makes him one of the greatest composers of the baroque period and one of the greatest of all English composers.  He was an extremely prolific composer who served at court in the reigns of three successive kings, Charles II, James II and William III.
 

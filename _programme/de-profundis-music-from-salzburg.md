@@ -9,9 +9,10 @@ composers:
     - Hans Ignatius Franz von Biber
     - Johann Michael Haydn
 ---
-Biber De profundis
-Biber Magnificat
-M Haydn Requiem in C minor
+> Biber De profundis
+> Biber Magnificat
+> M Haydn Requiem in C minor
+{: .blockquoteCantandum}
 
 Hans Ignatius Franz von Biber (1644-1704) was the outstanding virtuoso violinist of the seventeenth century and a first-rate composer, being equally at ease with sacred and secular, instrumental and vocal music.  His fame rests mainly on his violin sonatas including those for scordatura (unconventionally tuned strings) which lend an amazing energy and vitality to the music; the 18th century English music scholar and traveller Dr Charles Burney describing them as ‘the most difficult an fanciful of any music I have seen of the same period’.  Biber’s sacred music consists of huge concerted works for solo and ripieno voices with large orchestra  – the Missa Alleluia à 36 and the 53-part Missa Salzburgiensis being fine examples – but he wrote delightful chamber music as well. He had a gift for melody and was a master at counterpoint.  De profundis dates from 1693 and is from the composer’s first setting of psalm 147.  It begins in a solemn but lilting 3-time and is scored mainly for four soloists, singing both individually and together.  The final tutti ‘Et in saecula saeculorum’ is a moving statement full of hope that seems to speak from the heart.  The Magnificat starts as a relatively fast three in a bar, with the strings engaged in a lively fugue-like introduction before being answered by the call of the chorus.  Biber sets interesting rhythms which follow the stresses of the words rather than the conventional 3-time and which add an edge of tension and interest to the choral writing.  There is a short second section in common time, introduced by the baritone and soprano soloists, before a return to an energetic ‘dispersit superbos’ and a more contemplative section for solo voices.  The piece ends with a lively 3/2 Amen.
 

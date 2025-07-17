@@ -12,11 +12,12 @@ composers:
     - Heinrich Schütz
     - Dietrich Buxtehude
 ---
-Eccard When to the temple Mary went
-Telemann Laudate Jehovam
-J.S. Bach Jesu meine Freude
-Schütz Deutsches magnificat
-Buxtehude Magnificat
+> Eccard When to the temple Mary went
+> Telemann Laudate Jehovam
+> J.S. Bach Jesu meine Freude
+> Schütz Deutsches magnificat
+> Buxtehude Magnificat
+{: .blockquoteCantandum}
 
 Johannes Eccard (1553-1611) was a pupil of Lassus in Munich.  His works are exclusively vocal and centre on the Lutheran chorale.  He was one of the principal protestant composers of chorale-motets, realising the full implications of the text in terms of close word-note relationships, appropriately-varied textures and a deeply religious feeling; he was much admired by Brahms.  In the 19th century Eccard’s music was seen as the epitome of the Protestant a capella ideal, in quiet contrast to the rich polyphony of Palestrina.  Maria wallt zum Heiligtum is better known in Troutbeck’s moving translation, which is the version heard tonight.
 

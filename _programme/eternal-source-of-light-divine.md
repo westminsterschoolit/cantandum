@@ -10,10 +10,11 @@ composers:
     - Dietrich Buxtehude
     - George Frideric Handel
 ---
-Palestrina Exsultate Deo; Tu es Petrus
-Monteverdi Beatus vir
-Buxtehude Magnificat
-Handel Ode on the birthday of Queen Anne
+> Palestrina *Exsultate Deo*; *Tu es Petrus*  
+> Monteverdi *Beatus vir*  
+> Buxtehude *Magnificat*  
+> Handel *Ode on the birthday of Queen Anne*
+{: .blockquoteCantandum}
 
 Giovanni Pierluigi da Palestrina (1525-94) took his name from the town near Rome where he was born.  He spent much of his career as maestro of the Capella Giulia, the choir of St Peter’s basilica; his numerous publications, including seven books of masses and about 375 motets, brought him international fame in his lifetime.  In his later years he was held much in awe by musicians, both theorists and composers: as early as 1575 it was written of him that he was ‘now considered the very first musician in the world’.  Exsultate Deo, a setting of the opening verses of Psalm 81, has long been a favourite motet, with its joyous tunefulness and vivid word-painting of musical instruments, especially the ‘tubae’ of ‘Blow up the trumpet in the new moon’.  Tu es Petrus is in fact a pair of motets, as the middle section, Quodcumque ligaveris is sometimes performed alone.  Published in 1572, the composer thought highly enough of it to use it as a base for a grand mass setting for triple choir.  The text, proper to the feast of St Peter, is from Matthew 16: ‘Thou art Peter, and upon this rock I will build my church… and I will give unto thee the keys of the Kingdom of Heaven’.
 

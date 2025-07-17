@@ -16,20 +16,23 @@ composers:
     - Dietrich Buxtehude
 ---
 
-Telemann Psalm 117 Laudate Jehovah
-Schütz Paratum cor meum
-Schütz Deutsches Magnificat
-Muffat Sonata V from Armonico tributo: Allemande; Adagio; Fuga
-Bach Jesu meine Freude
-Praetorius In dulci jubilo
-Schmidt A child is born in Bethlehem
-Eccard When to the temple Mary went
-Muffat Sonata V from Armonico tribute: Adagio, Passacaglia
-Buxtehude Magnificat
+> Telemann Psalm 117 Laudate Jehovah  
+> Schütz Paratum cor meum  
+> Schütz Deutsches Magnificat  
+> Muffat Sonata V from Armonico tributo: Allemande; Adagio; Fuga  
+> Bach Jesu meine Freude  
+> Praetorius In dulci jubilo  
+> Schmidt A child is born in Bethlehem  
+> Eccard When to the temple Mary went  
+> Muffat Sonata V from Armonico tribute: Adagio, Passacaglia  
+> Buxtehude Magnificat
+{: .blockquoteCantandum}
 
-Cantandum Vyvian Bronk, Kate Carberry-Long, Lydia McLean, Helen Prentice, May Robertson soprano; Lucy Chambers, Catharine Robertson, Delia Robertson alto; Tim Dutton, Ben Linton, Joe Morgan tenor; Edmund Connolly, Chris Hodges, Cyrus Lyons, Damian Riddle baritone; Gilly French director
+### Cantandum 
+Vyvian Bronk, Kate Carberry-Long, Lydia McLean, Helen Prentice, May Robertson soprano; Lucy Chambers, Catharine Robertson, Delia Robertson alto; Tim Dutton, Ben Linton, Joe Morgan tenor; Edmund Connolly, Chris Hodges, Cyrus Lyons, Damian Riddle baritone; Gilly French director
 
-Bampton Classical Players Camilla Scarlett, Davina Clarke violin; Sally Woods cello; Alex Hodgkinson harpsichord and organ.
+### Bampton Classical Players 
+Camilla Scarlett, Davina Clarke violin; Sally Woods cello; Alex Hodgkinson harpsichord and organ.
 
 Georg Philip Telemann (1681-1767) was among the most prolific and most well-known composers of his generation. He held important positions in Leipzig, Eisenach and Frankfurt before moving to Hamburg, where he remained until his death. In his long career Telemann wrote a great deal of music of all kinds in a style that extends the late Baroque into the age of Haydn. Psalm 117, Laudate Jehovam, omnes gentes, a cantata for Epiphany, dates from his Frankfurt period and is a short setting in three continuous movements; it contains some lively word-painting, especially with the first tutti entry on ‘omnes gentes’. The middle section is a relatively slow-moving depiction of ‘merciful kindness’; it is followed by a rousing Alleluia.
 
