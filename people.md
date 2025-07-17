@@ -6,7 +6,6 @@ description: A list of the current members of the Cantandum Singers, including t
 keywords: people, members, Cantandum Singers
 author: Cantandum Singers
 image: /assets/images/cantandum-summer-21.webp
-
 ---
 ## Soprano
 Fiona Sharp, Helen Prentice, Kate Carberry-Long, Vyvian Bronk, Julia Wickham, Catherine Langdale, Andrea Price
