@@ -31,14 +31,14 @@ jobs:
 
       - name: Build CSS with npm script
         # This assumes your 'build' script in package.json handles Sass and PostCSS
-        run: npm run build
+        run: npm run start
 
-      - name: Build Jekyll site
-        # Jekyll will build the site into the _site directory
-        # The npm run build script already includes jekyll:build,
-        # so this step is just to re-emphasize or if you prefer separate runs.
-        # If 'npm run build' already runs 'jekyll:build', you can skip this.
-        run: bundle exec jekyll build
+    #   - name: Build Jekyll site
+    #     # Jekyll will build the site into the _site directory
+    #     # The npm run build script already includes jekyll:build,
+    #     # so this step is just to re-emphasize or if you prefer separate runs.
+    #     # If 'npm run build' already runs 'jekyll:build', you can skip this.
+    #     run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
