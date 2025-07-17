@@ -31,7 +31,7 @@ jobs:
         run: npm install
 
       - name: Build CSS with npm script
-        run: npm run start # Make sure 'npm run start' also triggers jekyll:build for gh-pages deployment
+        run: npm run deploy
 
       # Uncomment if you want to run Jekyll build explicitly
       # - name: Build Jekyll site

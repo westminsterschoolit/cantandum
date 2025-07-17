@@ -14,7 +14,8 @@
     "start": "npm run build:assets && jekyll serve --livereload",
     "clean": "rm -rf _site",
     "build": "npm run clean && npm run build:assets",
-    "deploy": "npm run build:assets && jekyll build"
+    "jekyll:build": "bundle exec jekyll build",
+    "deploy": "npm run build:assets && jekyll:build"
   },
   "keywords": [],
   "author": "",
