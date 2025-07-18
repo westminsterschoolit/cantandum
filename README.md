@@ -27,7 +27,7 @@ These instructions will help you set up and build the site locally.
     ```bash
     npm install
     ```
-3. ** Install gems**
+3. **Install gems**
     ```bash
     bundle install
     ```
