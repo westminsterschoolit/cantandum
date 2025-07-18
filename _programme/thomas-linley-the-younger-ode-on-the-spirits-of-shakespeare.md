@@ -4,7 +4,7 @@ layout: default
 details: true
 venue: Ashburnham garden
 date: 20100611
-image: /assets/images/screen-shot-2016-04-11-at-21-57-16.png
+image: /assets/images/screen-shot-2016-04-11-at-21-57-16.webp
 description: A vibrant exploration of Linley's Shakespeare Ode, blending supernatural themes and early Romanticism in English music.
 composers:
   - Thomas Linley

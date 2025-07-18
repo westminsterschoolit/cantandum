@@ -5,7 +5,7 @@ details: true
 venue: "St Stephen’s Rochester Row"
 description: "A programme of sacred choral music for Lent featuring works by Charpentier, Palestrina, Howells, and Scarlatti at St Stephen’s Rochester Row."
 date: 20080305
-image: /assets/images/screen-shot-2016-04-11-at-22-05-36.png
+image: /assets/images/screen-shot-2016-04-11-at-22-05-36.webp
 composers:
     - Marc-Antoine Charpentier
     - Giovanni Pierluigi da Palestrina

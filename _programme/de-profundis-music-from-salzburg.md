@@ -4,7 +4,7 @@ layout: default
 details: true
 venue: Westminster School
 date: 20071129
-image: /assets/images/screen-shot-2016-04-11-at-22-09-32.png
+image: /assets/images/screen-shot-2016-04-11-at-22-09-32.webp
 description: "A concert featuring sacred works by Biber and Michael Haydn, highlighting Salzburg's rich musical heritage and masterful choral compositions."
 composers:
     - Hans Ignatius Franz von Biber

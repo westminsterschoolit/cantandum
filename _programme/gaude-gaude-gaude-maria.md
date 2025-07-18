@@ -4,7 +4,7 @@ layout: default
 details: true
 venue: "St Stephen's Rochester Row"
 date: 20090311
-image: /assets/images/screen-shot-2016-04-11-at-22-00-44.png
+image: /assets/images/screen-shot-2016-04-11-at-22-00-44.webp
 description: "A programme featuring works by Sheppard, Palestrina, and Legrenzi, exploring Renaissance and Baroque choral masterpieces at St Stephen's Rochester Row."
 composers:
     - John Sheppard

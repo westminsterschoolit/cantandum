@@ -3,7 +3,7 @@ layout: default
 title: Contact Us
 permalink: /contact-us/
 description: "Contact the Cantandum Singers at Westminster School for performances, auditions, or general information. Reach us by email or visit our location."
-image: "/assets/images/cantandum-cloisters.jpg"
+image: "/assets/images/cantandum-cloisters.webp"
 ---
 
 We welcome inquiries regarding performances, auditions, or general information about the Cantandum Singers.

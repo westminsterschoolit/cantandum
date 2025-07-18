@@ -4,7 +4,7 @@ layout: default
 details: true
 venue: Westminster School
 date: 20131121
-image: /assets/images/screen-shot-2016-04-11-at-21-36-01.png
+image: /assets/images/screen-shot-2016-04-11-at-21-36-01.webp
 description: "Cantandum celebrates St Cecilia's Day with Palestrina's Missa Papae Marcelli, Britten's Hymn to St Cecilia, and Parry's Blest Pair of Sirens."
 composers:
     - Giovanni Pierluigi da Palestrina

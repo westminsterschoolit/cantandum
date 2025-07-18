@@ -4,7 +4,7 @@ layout: default
 details: true
 venue: Westminster School
 date: 20121221
-image: /assets/images/screen-shot-2016-04-11-at-21-42-49.png
+image: /assets/images/screen-shot-2016-04-11-at-21-42-49.webp
 description: A festive concert programme featuring music in honour of the Virgin Mary, with works by Victoria, Handel, Vivaldi, Pearsall, and Corelli.
 composers:
     - Anon

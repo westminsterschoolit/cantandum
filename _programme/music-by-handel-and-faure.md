@@ -5,7 +5,7 @@ details: true
 venue: "St Margaret's Westminster"
 description: "A concert featuring choral works by Handel and Fauré, performed at St Margaret's Westminster, highlighting baroque and French elegance."
 date: 20141127
-image: /assets/images/screen-shot-2016-04-11-at-21-30-38.png
+image: /assets/images/screen-shot-2016-04-11-at-21-30-38.webp
 composers:
     - George Frideric Handel
     - Gabriel Fauré

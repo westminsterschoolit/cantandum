@@ -29,8 +29,8 @@ url: "https://cantandum.westminster.org.uk" # the base hostname & protocol for y
 github_username:  westminsterschoolit
 facebook_username: cantandum
 x_username: wscantandum
-logo: /assets/images/Westminster-School-logo.png
-image: /assets/images/Westminster-School-logo.png
+logo: /assets/images/Westminster-School-logo.webp
+image: /assets/images/Westminster-School-logo.webp
 locale: en_GB
 plugins:
   - jekyll-feed
