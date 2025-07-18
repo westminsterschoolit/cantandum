@@ -22385,7 +22385,7 @@ h2, .h2 {
 .main-message {
   background-color: #032e47;
   color: #fff;
-  background-image: linear-gradient(to bottom, rgba(3, 46, 71, 0.95), rgba(3, 46, 71, 0.95)), url("https://westminsterschoolit.github.io/usa-foundation/assets/images/NEW-Westminster-School-crest-blackwhite-600dpi.png");
+  background-image: linear-gradient(to bottom, rgba(3, 46, 71, 0.95), rgba(3, 46, 71, 0.95)), url("/assets/images/NEW-Westminster-School-crest-blackwhite-600dpi.png");
   background-size: auto 80%;
   background-position: center;
   background-repeat: no-repeat;
