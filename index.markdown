@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Home
+description: "Cantandum is a Westminster School choir performing diverse music from the 16th to 21st centuries at concerts and services in London and beyond."
 ---
-
-
 
 Cantandum – the Singers and Friends of Westminster School Common Room – was established in June 2003 by a group of colleagues who enjoy high-quality music making.
 

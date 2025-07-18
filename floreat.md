@@ -3,6 +3,7 @@ title: Floreat
 layout: default
 permalink: /floreat/
 image: /assets/images/dsc04675.webp
+description: Floreat is a versatile vocal ensemble performing a cappella music, originating from the main choir and directed by Gilly French since 2008.
 ---
 
 (L-R): Fiona Sharp, William Nicholson, Gilly French, Kevin Walsh, Helen Prentice, Tim Dutton, Catharine Robertson, Iain Butler
