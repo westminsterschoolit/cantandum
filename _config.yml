@@ -84,3 +84,15 @@ pagination:
   collection: 'programme' # The collection to paginate (e.g., 'programme', 'posts', etc.)
   per_page: 20 # Number of items per page for this collection
   permalink: '/programme-notes/page:num/' # The permalink for paginated collection pages
+
+seo_tag:
+  title: # Leave blank to use site.title
+  description: # Leave blank to use site.description
+  image: /assets/images/Westminster-School-logo.webp # Default social sharing image
+  twitter:
+    username: wscantandum # Your Twitter handle for Twitter Cards
+  social:
+    name: Cantandum # Used in Open Graph for site_name
+    links:
+      - https://x.com/wscantandum
+      - https://facebook.com/cantandum
