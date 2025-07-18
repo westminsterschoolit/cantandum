@@ -2,7 +2,8 @@
 title: Music for the season of Lent
 layout: default
 details: true
-venue: St Stephen’s Rochester Row
+venue: "St Stephen’s Rochester Row"
+description: "A programme of sacred choral works for Lent, featuring Carissimi, Zelenka, Tomkins, Bruckner, Walton, and Fauré at St Stephen’s Rochester Row."
 date: 20050302
 composers:
   - Giacomo Carissimi

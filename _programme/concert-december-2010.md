@@ -5,6 +5,7 @@ details: true
 venue: Westminster School
 date: 20101221
 image: /assets/images/screen-shot-2016-04-11-at-21-56-11.png
+description: A festive concert featuring Baroque music from Germany, performed by Cantandum and Bampton Classical Players at Westminster School, December 2010.
 composers:
     - Georg Philip Telemann
     - Heinrich Schütz

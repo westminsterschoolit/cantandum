@@ -3,6 +3,7 @@ title: Jephthe
 layout: default
 details: true
 venue: Ashburnham Garden
+description: "A programme exploring the biblical story of Jephtha through oratorios by Greene, Handel, and Carissimi, performed at Ashburnham Garden."
 date: 20070608
 composers:
     - Maurice Greene

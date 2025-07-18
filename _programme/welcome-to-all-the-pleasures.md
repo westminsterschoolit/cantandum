@@ -4,6 +4,7 @@ layout: default
 details: true
 venue: Ashburnham Garden
 date: 20040610
+description: A celebration of St Cecilia in music, featuring works by Purcell and Britten, exploring the patroness of music through history, poetry, and song.
 composers:
     - Henry Purcell
     - Benjamin Britten

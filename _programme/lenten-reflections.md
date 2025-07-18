@@ -2,8 +2,9 @@
 title: Lenten Reflections
 layout: default
 details: true
-venue:  St Stephen’s, Rochester Row
+venue:  "St Stephen's, Rochester Row"
 date: 20040317
+description: "A programme of sacred choral music for Lent, featuring works by Byrd, Victoria, d’Astorga, Rutter, Tchaikovsky, Holst, Greene, and Tallis."
 Composers:
  - William Byrd
  - Richard/John Farrant
@@ -25,7 +26,7 @@ Composers:
 > Greene Hearken unto me, ye holy children
 {: .blockquoteCantandum}
 
-Thomas Tallis (1505-1585) belongs to the period sometimes described as the Golden Age of English church music; he became a Gentleman of the Chapel Royal in the late sixteenth century.  The verse anthem Teach me, O Lord is one of the earliest examples of the use of a solo voice with independent organ part.  The composer of the simple prayer Lord, for thy tender mercy’s sake is somewhat unclear: manuscripts ascribe the music to ‘Farrant’ but this could have been Richard, another of the Gentlemen of the Chapel Royal, or one of the two Johns.  John the elder was master of the choristers at Salisbury and had a particular reputation for a rough temper and ‘rayling and contumelious speeches’; his son John became organist at Salisbury in 1600.  The final ‘amen’ of this short but moving piece is thought to have been added by a John Hilton, of which there were also two, father and son, the latter being one-time organist at St Margaret’s Westminster.
+Thomas Tallis (1505-1585) belongs to the period sometimes described as the Golden Age of English church music; he became a Gentleman of the Chapel Royal in the late sixteenth century.  The verse anthem Teach me, O Lord is one of the earliest examples of the use of a solo voice with independent organ part.  The composer of the simple prayer Lord, for thy tender mercy’s sake is somewhat unclear: manuscripts ascribe the music to ‘Farrant’ but this could have been Richard, another of the Gentlemen of the Chapel Royal, or one of the two Johns.  John the elder was master of the choristers at Salisbury and had a particular reputation for a rough temper and ‘rayling and contumelious speeches’; his son John became organist at Salisbury in 1600.  The final ‘amen’ of this short but moving piece is thought to have been added by a John Hilton, of which there were also two, father and son, the latter being one-time organist at St Margaret's Westminster.
 
 Tomás Luis de Victoria (1548-1611) was the greatest Spanish Renaissance composer and one of the leading figures of church music in the Europe of his day.  He was ordained priest in 1575 and two years later became chaplain to the Dowager Empress Maria in Madrid; he remained at the convent, first as choirmaster and later as organist, until his death.  The Responsories, published in 1585, were sung at the highly elaborate and dramatised night-time office of Tenebrae in Holy Week.  The texts, 18 in total, trace the story of the Passion and were adapted from the Gospels with probably fourth century additions.  Eram quasi agnus (I was like an innocent lamb) is for Maundy Thursday; Caligaverunt oculi mei (my eyes become dim with weeping) is from the Good Friday settings; and Astiterunt reges (The kings of the earth stood up) from those for Holy Saturday.  They are raw and poignant settings of bleak texts and are characterised by energy, vitality and, at times, an almost unbearable sense of human pain.
 

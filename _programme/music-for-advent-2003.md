@@ -3,6 +3,7 @@ title: Music for Advent
 layout: default
 details: true
 venue: Westminster School
+description: A programme of English choral music for Advent, featuring works by Byrd, Cleobury, Poston, Purcell, and Handel at Westminster School.
 date: 20031202
 composers:
     - William Byrd

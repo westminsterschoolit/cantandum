@@ -1,8 +1,9 @@
 ---
 title: Messiah by Candlelight
+description: "Cantandum performs Handel's beloved Messiah by candlelight at St Mary's Bampton, creating an intimate and atmospheric Christmas celebration."
 layout: default
 details: true
-venue: St Mary’s, Bampton, Oxon
+venue: "St Mary's, Bampton"
 date: 20131221
 image: /assets/images/screen-shot-2016-04-11-at-22-21-00.png
 composers:

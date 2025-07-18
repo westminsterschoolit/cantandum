@@ -4,6 +4,7 @@ layout: default
 details: true
 venue: Westminster School
 date: 20081205  
+description: A festive concert featuring choral masterpieces by Gibbons, Victoria, Poulenc, Mendelssohn, and Vaughan Williams at Westminster School.
 composers:
     - Orlando Gibbons
     - Tomas Luis de Victoria
@@ -18,7 +19,7 @@ composers:
 > Vaughan Williams Fantasia on Christmas Carols
 {: .blockquoteCantandum}
 
-Orlando Gibbons (1583-1625) was a leading composer of vocal, keyboard and ensemble music in early 17th-century England.  From 1603 until his death he was a musician in the Chapel Royal.  His particular skill was as a keyboard player, becoming senior organist in 1625.  His seven children were baptised at St Margaret’s Westminster.  From 1613 he was the most talented keyboard player and composer available to the court and in 1623 he became organist at Westminster Abbey.  His verse anthems are characterised by vitality and are amongst the greatest of the genre.  See, see the Word is incarnate is a fine example: it starts with an expressive declaration for alto solo and chorus, moves through an imitative duet for soprano and alto, rhythmic choral writing, darkly descriptive passages for trio and quartet depicting the death of Christ, and ends in a triumphant chorus in celebration of the resurrection.
+Orlando Gibbons (1583-1625) was a leading composer of vocal, keyboard and ensemble music in early 17th-century England.  From 1603 until his death he was a musician in the Chapel Royal.  His particular skill was as a keyboard player, becoming senior organist in 1625.  His seven children were baptised at St Margaret's Westminster.  From 1613 he was the most talented keyboard player and composer available to the court and in 1623 he became organist at Westminster Abbey.  His verse anthems are characterised by vitality and are amongst the greatest of the genre.  See, see the Word is incarnate is a fine example: it starts with an expressive declaration for alto solo and chorus, moves through an imitative duet for soprano and alto, rhythmic choral writing, darkly descriptive passages for trio and quartet depicting the death of Christ, and ends in a triumphant chorus in celebration of the resurrection.
 
 Tomas Luis de Victoria (1548-1611) was not only the greatest Spanish Renaissance composer but also one of the greatest composers of church music of his day in Europe, who has been admired above all for the intensity of his motets and of his Offices for Holy Week.  His work is limited entirely to the setting of Latin sacred texts.  He was ordained priest in 1575 and two years later became chaplain to the Dowager Empress Maria in Madrid; he remained at the convent, first as choirmaster and later as organist, until his death.  His renumerative and influential position as choirmaster, with plentiful resources at his disposal, are no doubt reflected in the underlying optimism and confidence of much of his later work. His masses and motets provided a consistent and vigorous corpus of new music for the counter-reformation Church.  O magnum mysterium, written for the feast of the Circumcision, is a so-called parody mass: it takes its theme from the composer’s motet of the same title, with the opening bars of the Kyrie echoing those of the motet.
 

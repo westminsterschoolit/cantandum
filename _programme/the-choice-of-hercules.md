@@ -5,6 +5,7 @@ details: true
 venue: Ashburnham Garden
 date: 20080613
 image: /assets/images/screen-shot-2016-04-11-at-22-03-35.png
+description: "Handel’s The Choice of Hercules explores the allegory of virtue versus pleasure in a concise, dramatic oratorio set in classical mythology."
 composers:
     - George Frideric Handel
 ---

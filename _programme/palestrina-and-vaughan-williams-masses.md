@@ -4,6 +4,7 @@ layout: default
 details: true
 venue: Westminster School
 date: 20061117
+description: Two masterworks of sacred choral music: Palestrina’s Missa Papae Marcelli and Vaughan Williams’ Mass in G minor, performed at Westminster School.
 composers:
     - Giovanni Pierluigi da Palestrina
     - Ralph Vaughan Williams

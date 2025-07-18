@@ -4,6 +4,7 @@ layout: default
 details: true
 venue: Ashburnham Garden
 date: 20060608
+description: "Cantandum presents Purcell's tragic opera Dido and Aeneas in the beautiful setting of Ashburnham Garden, featuring an accomplished cast of soloists."
 composers:
   - Henry Purcell
 ---

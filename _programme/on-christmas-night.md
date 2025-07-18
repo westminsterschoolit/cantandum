@@ -5,6 +5,7 @@ details: true
 date: 2015-12-11
 layout: default
 image: /assets/images/screen-shot-2016-04-11-at-21-21-02.png
+description: A festive concert featuring choral works by Foster, Hassler, Tallis, Praetorius, Clemens non Papa, Britten, and Vaughan Williams.
 composers:
     - Peter Foster
     - Hans Leo Hassler

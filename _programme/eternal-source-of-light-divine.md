@@ -4,6 +4,7 @@ layout: default
 details: true
 venue: Ashburnham Garden
 date: 20050609
+description: A concert programme featuring works by Palestrina, Monteverdi, Buxtehude, and Handel, performed at Ashburnham Garden on 9 June 2005.
 composers:
     - Giovanni Pierluigi da Palestrina
     - Claudio Monteverdi

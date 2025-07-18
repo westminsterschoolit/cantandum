@@ -5,6 +5,7 @@ details: true
 venue: Westminster School
 date: 27 November 2009
 image: /assets/images/screen-shot-2016-04-11-at-21-58-27.png
+description: A concert programme celebrating five anniversaries with works by Purcell, Haydn, Rheinberger, Mendelssohn, and Handel at Westminster School.
 composers: 
   - Henry Purcell
   - Joseph Haydn

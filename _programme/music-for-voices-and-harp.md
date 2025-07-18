@@ -3,6 +3,7 @@ title: Music for voices and harp
 layout: default
 details: true
 venue: Westminster School
+description: A concert featuring choral works by Tallis, Gibbons, Britten, Brahms, and Janacek, performed at Westminster School with voices and harp.
 date: 20041118
 composers:
     - Thomas Tallis

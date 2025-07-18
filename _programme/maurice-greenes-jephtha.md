@@ -1,8 +1,9 @@
 ---
-title: Maurice Greene's Jephtha
+title: "Maurice Greene's Jephtha"
 layout: default
 details: true
 venue: SJE Arts Oxford
+description: "A rare performance of Maurice Greene's dramatic oratorio Jephtha, exploring its historical context and emotional depth at SJE Arts Oxford."
 date: 20141102
 image: /assets/images/screen-shot-2016-04-11-at-22-13-00.png
 composers:

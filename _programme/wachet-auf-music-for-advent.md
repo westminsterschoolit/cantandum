@@ -4,6 +4,7 @@ layout: default
 details: true
 venue: Westminster School
 date: 20051122
+description: "A choral programme exploring Advent through works by Guerrero, Gibbons, Brahms, Mendelssohn, and Bach, performed at Westminster School."
 composers:
     - Francisco Guerrero
     - Orlando Gibbons

@@ -2,9 +2,10 @@
 title: Requiem aeterna
 layout: default
 details: true
-venue: St Stephen's, Rochester Row
+venue: "St Stephen's, Rochester Row"
 date: 20120307
 image: /assets/images/screen-shot-2016-04-11-at-21-44-11.png
+description: "A programme featuring Clemens non Papa, Manchicourt, and Duruflé, exploring Renaissance and 20th-century sacred choral masterpieces."
 composer:
     - Jacob Clemens non Papa
     - Pierre de Manchicourt

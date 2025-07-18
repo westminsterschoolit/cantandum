@@ -2,8 +2,9 @@
 title: Acis and Galatea
 layout: default
 details: true
-venue: St John’s Smith Square
+venue: "St John's Smith Square"
 date: 20070515
+description: "Cantandum performs Handel's pastoral masque Acis and Galatea in Mozart's arrangement, telling the mythological tale of love and tragedy at St John's."
 composers:
     - George Frideric Handel
     - Wolfgang Amadeus Mozart

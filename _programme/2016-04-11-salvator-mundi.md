@@ -2,10 +2,11 @@
 title: Salvator mundi – music for Passiontide
 layout: default
 date: 2016-03-18
-venue: 'St Stephen’s, Rochester Row'
+venue: "St Stephen's, Rochester Row"
 slug: salvator-mundi-music-for-passiontide
 image: /assets/images/screen-shot-2016-04-11-at-21-14-54.png
 details: true
+description: "Cantandum presents sacred music for Passiontide featuring works by Weelkes, Victoria, Tallis, Bruckner, Sanders and Tomkins at St Stephen's, Rochester Row."
 Composers:
 - Thomas Weelkes (1576–1623)
 - Tomás Luis de Victoria (1548–1611)

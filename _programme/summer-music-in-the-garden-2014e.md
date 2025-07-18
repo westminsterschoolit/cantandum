@@ -4,6 +4,7 @@ layout: default
 details: true
 venue: Ashburnham garden
 date: 20140613
+description: A summer concert featuring choral works by Mozart, Schütz, Mendelssohn, and Handel, performed in Ashburnham garden on June 13, 2014.
 composers:
     - Wolfgang Amadeus Mozart
     - Heinrich Schütz

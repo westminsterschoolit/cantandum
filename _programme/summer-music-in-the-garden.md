@@ -4,6 +4,7 @@ venue: Ashburnham garden
 date: 20150612
 layout: default
 details: true
+description: Enjoy Handel’s Chandos Anthem 10 and Haydn’s Missa Sancti Nicolai in a summer garden setting, featuring chamber orchestra and choir.
 composers:
     - G.F. Handel
     - F.J. Haydn

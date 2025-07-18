@@ -2,9 +2,10 @@
 title: Baroque music from Germany
 layout: default
 details: true
-venue: St Mary's Church, Bampton
+venue: "St Mary's Church, Bampton"
 date: 20101125
 image: /assets/images/screen-shot-2016-04-11-at-21-56-11.png
+description: "Cantandum explores German Baroque treasures with works by Eccard, Telemann, Bach, Schütz and Buxtehude at St Mary's Church, Bampton."
 composers:
     - Johannes Eccard
     - Georg Philip Telemann

@@ -2,8 +2,9 @@
 title: The ways of Zion do mourn
 layout: default
 details: true
-venue: St Stephen’s, Rochester Row
+venue: "St Stephen’s, Rochester Row"
 date: 20130301
+description: "Funeral music by Bononcini and Handel, composed for the Duke of Marlborough and Queen Caroline, reflecting sorrow and hope through baroque artistry."
 composers:
     - Giovanni Bononcini
     - George Frideric Handel

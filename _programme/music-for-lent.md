@@ -2,7 +2,8 @@
 title: Music for Lent
 layout: default
 details: true
-venue: St Stephen’s, Rochester Row
+venue: "St Stephen’s, Rochester Row"
+description: "A programme of choral masterpieces for Lent, featuring works by Victoria, Poulenc, Palestrina, Sanders, and Bach at St Stephen’s, Rochester Row."
 date: 2015-03-13
 image: /assets/images/screen-shot-2016-04-11-at-21-17-50.png
 composers:

@@ -2,9 +2,10 @@
 title: Appeal for a Peal
 layout: default
 details: true
-venue: St Stephen’s, Rochester Row
+venue: "St Stephen's, Rochester Row"
 date: 20140320
 image: /assets/images/screen-shot-2016-04-11-at-21-34-30.png
+description: "Cantandum presents a fundraising concert featuring works by Victoria, Purcell, Vierne and Vaughan Williams in aid of St Stephen's bell appeal."
 composers:
     - Tomás Luis de Victoria
     - Henry Purcell

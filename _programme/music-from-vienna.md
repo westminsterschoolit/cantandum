@@ -5,6 +5,7 @@ details: true
 venue: Ashburnham garden
 date: 20130614
 image: /assets/images/screen-shot-2016-04-11-at-21-37-15.png
+description: A concert featuring works by Fux and Haydn, showcasing Vienna’s rich musical heritage and the evolution from Baroque to Classical styles.
 composers:
  - Johann Joseph Fux
  - Franz Joseph Haydn

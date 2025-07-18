@@ -4,4 +4,5 @@ layout: default
 details: false
 venue: Westminster Abbey
 date: 20120103
+description: Experience a moving Choral Evensong at Westminster Abbey, featuring traditional Anglican music and prayers in a historic and inspiring setting.
 ---
