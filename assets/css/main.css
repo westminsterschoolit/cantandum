@@ -22365,10 +22365,15 @@ table.programme-table a:hover {
 
 .blockquoteCantandum {
   color: #5f9ea0;
+  font-family: Sorts Mill Goudy, serif;
   font-size: 1.5rem;
   font-style: italic;
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+h2, .h2 {
+  font-weight: 700 !important;
 }
 
 .mb-4.text-white.fw-bold.front-text {

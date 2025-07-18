@@ -12,6 +12,7 @@
     "build:js": "rollup -c",
     "build:assets": "npm run build:css && npm run build:js && npm run copy:fa-fonts",
     "start": "npm run build:assets && bundle exec jekyll build",
+    "develop": "npm run build:assets && bundle exec jekyll serve",
     "clean": "rm -rf _site",
     "build": "npm run clean && npm run build:assets"
   },
