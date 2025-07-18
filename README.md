@@ -46,7 +46,76 @@ To start a local development server:
 npm start
 ```
 
-Visit `http://localhost:3000` (or the port specified in your project) to view the site.
+Visit `http://localhost:4000` (or the port specified in your project) to view the site.
+
+## Build and Deployment Process
+
+The Cantandum Singers site is built and deployed automatically using GitHub Actions. The workflow is defined in `.github/workflows/deploy.yml`. 
+
+### How It Works
+
+- **Build Step:** On every push to the `main` branch, the GitHub Action installs dependencies and runs the build command (`npm run build`). This generates the production-ready files.
+- **PurgeCSS Integration:** During the build, [PurgeCSS](https://purgecss.com/) is used to remove unused CSS, optimizing the final bundle for faster load times.
+- **Deployment:** After building, the workflow deploys the site to the configured hosting provider (such as GitHub Pages or another service).
+
+### Example Workflow (`deploy.yml`)
+
+```yaml
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # This line was correctly indented
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.3'
+          bundler-cache: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install npm dependencies
+        run: npm install
+
+      - name: Build CSS with npm script
+        run: npm run start
+
+      # Uncomment if you want to run Jekyll build explicitly
+      # - name: Build Jekyll site
+      #   run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+```
+
+### Customizing PurgeCSS
+
+If you need to adjust PurgeCSS settings, edit the package.json command. 
+
+### Monitoring Deployments
+
+You can view build and deployment logs in the "Actions" tab of your GitHub repository.
+
+For more details, see the `.github/workflows/deploy.yml` file in the repository.
 
 ## Contributing
 
