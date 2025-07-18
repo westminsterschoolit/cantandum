@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Cantandum is a London-based chamber choir dedicated to performing a diverse repertoire of choral music,
   from Renaissance masterpieces to contemporary works.
   Join us for inspiring concerts, community events, and a celebration of vocal excellence.
-baseurl: "/cantandum" # the subpath of your site, e.g. /blog
-url: "https://westminsterschooltit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://cantandum.westminster.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  westminsterschoolit
 facebook_username: cantandum
 x_username: wscantandum
