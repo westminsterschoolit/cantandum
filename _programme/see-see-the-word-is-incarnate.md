@@ -11,11 +11,12 @@ composers:
     - Felix Mendelssohn
     - Ralph Vaughan Williams
 ---
-Gibbons See, see the Word is incarnate
-Victoria Missa O magnum mysterium
-Poulenc Quatre motets pour le temps de Nöel
-Mendelssohn When Jesus our Lord (from Christus)
-Vaughan Williams Fantasia on Christmas Carols
+> Gibbons See, see the Word is incarnate
+> Victoria Missa O magnum mysterium
+> Poulenc Quatre motets pour le temps de Nöel
+> Mendelssohn When Jesus our Lord (from Christus)
+> Vaughan Williams Fantasia on Christmas Carols
+{: .blockquoteCantandum}
 
 Orlando Gibbons (1583-1625) was a leading composer of vocal, keyboard and ensemble music in early 17th-century England.  From 1603 until his death he was a musician in the Chapel Royal.  His particular skill was as a keyboard player, becoming senior organist in 1625.  His seven children were baptised at St Margaret’s Westminster.  From 1613 he was the most talented keyboard player and composer available to the court and in 1623 he became organist at Westminster Abbey.  His verse anthems are characterised by vitality and are amongst the greatest of the genre.  See, see the Word is incarnate is a fine example: it starts with an expressive declaration for alto solo and chorus, moves through an imitative duet for soprano and alto, rhythmic choral writing, darkly descriptive passages for trio and quartet depicting the death of Christ, and ends in a triumphant chorus in celebration of the resurrection.
 

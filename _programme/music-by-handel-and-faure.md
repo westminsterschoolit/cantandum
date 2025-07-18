@@ -9,9 +9,10 @@ composers:
     - George Frideric Handel
     - Gabriel Fauré
 ---
-Handel Let thy Hand be strengthened
-Handel O praise the Lord with one consent
-Fauré Requiem
+> Handel Let thy Hand be strengthened
+> Handel O praise the Lord with one consent
+> Fauré Requiem
+{: .blockquoteCantandum}
 
 George Frideric Handel (1685-1759) was one of the greatest composers of the baroque age and was a cosmopolitan and eclectic artist. Born in Germany, he became a British subject in 1727.
 

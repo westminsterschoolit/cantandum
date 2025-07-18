@@ -10,7 +10,8 @@ composers:
  - Franz Joseph Haydn
 ---
 > Fux Nisi dominus  
-  J. Haydn Maria Theresa Mass
+> J. Haydn Maria Theresa Mass
+{: .blockquoteCantandum}
 
 Johann Joseph Fux (1660-1741) was an Austrian composer, music theorist and pedagogue of the late Baroque era. He studied at the Jesuit university in Graz and became organist at Ingolstadt before arriving in Vienna in the late 1690s, where he came to the attention of the Emperor Leopold I.  He became court composer in 1698 and principal court Kapellmeister in 1715; he also became kapellmeister at St Stephen’s Cathedral, Vienna.
 

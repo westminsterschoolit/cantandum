@@ -9,19 +9,20 @@ composers:
     - Maurice Greene (1696–1755)
     - John Hoadly (librettist)
 ---
-Jephtha                                                 John-Colyn Gyeantey
-Jephtha’s daughter                           Rosalind Coad
-First Elder of Gilead                          Nicholas Merryweather
-Second Elder of Gilead                     Ben Williamson
+## Cast 
+Jephtha: John-Colyn Gyeantey
+Jephtha’s daughter: Rosalind Coad
+First Elder of Gilead: Nicholas Merryweather
+Second Elder of Gilead: Ben Williamson
 
-Cantandum
+## Cantandum
 Vyvian Bronk, Kate Carberry-Long, Helen Prentice, Fiona Sharp, Julia Wickham soprano; Laura Cappenberg, Lucy Chambers, Catharine Robertson, Delia Robertson alto; Tim Dutton, Jonathan Pearce, Kevin Walsh tenor; Hunter Danskin, Rupert Derham, Damian Riddle bass
 
-Bampton Classical Players, on period instruments
-Adrian Chandler, Camilla Scarlett violin; Rachel Byrt viola; Gareth Deats cello; Antonia Bakewell double bass; Joel Raymond, Oonagh Lee oboe/recorder; Simon Munday, Paul Sharp trumpet; Sarah Stuart timpani; James Johnstone harpsichord.
+## Bampton Classical Players
+On period instruments: Adrian Chandler, Camilla Scarlett violin; Rachel Byrt viola; Gareth Deats cello; Antonia Bakewell double bass; Joel Raymond, Oonagh Lee oboe/recorder; Simon Munday, Paul Sharp trumpet; Sarah Stuart timpani; James Johnstone harpsichord.
 
-Performing edition                            Peter Lynan
-Conductor                                            Gilly French
+Performing edition: Peter Lynan
+Conductor: Gilly French
 
 Whether intended or not, Greene’s Jephtha filled a gap. Handel had had some success with the first of his English oratorios in the early 1730s, but his continuing commitment to opera seria at the time was such that he did not return to oratorio until almost the end of that decade. The 1730s were thus something of an experimental period for English oratorio, the nature of the genre and its conventions not yet well defined and its general direction too still largely uncertain. For a composer able to foresee its dramatic potential, however, oratorio must have seemed particularly fertile ground. One such composer was Maurice Greene (1696–1755).
 

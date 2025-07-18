@@ -11,10 +11,11 @@ composers:
     - Tomás Luis de Victoria
     - Agostino Steffani
 ---
-Palestrina Dum aurora finet darem
-Vivaldi Magnificat
-Victoria Ave Regina caelorum; Salve Regina
-Steffani Stabat Mater
+> Palestrina Dum aurora finet darem
+> Vivaldi Magnificat
+> Victoria Ave Regina caelorum; Salve Regina
+> Steffani Stabat Mater
+{: .blockquoteCantandum}
 
 Dum aurora finem daret is the last responsory from the Matins for St Cecilia, whose feastday is today.  Cecilia was a Roman noblewoman martyred for her Christian faith in the second century AD. It is said that as she suffered a lingering death she sang exultantly to God, thus becoming the patroness of musicians and of church music.  This setting, by Giovanni Pierluigi da Palestrina (1525-1594), one of the towering figures of the sixteenth century, is characterised by fluid polyphony and a richness of sonority, each segment following on from the preceding one with remarkable subtlety.  The brief text suggests a fuller narrative and draws attention to the importance of saints in the early years of the Counter-Reformation as inspirational models for emulation: ‘As dawn was fading into day, Cecilia cried: Arise, soldiers of Christ, cast away the works of darkness and put on the armour of light’.  The words are painted with an expressive touch, the caressing polyphony of the ‘dawn’ changing to a stronger, more militant manner in the second half.  Palestrina’s style is both cerebral and emotional, managing to synthesise an immaculate grasp of musical form with heartfelt movement and vitality.
 

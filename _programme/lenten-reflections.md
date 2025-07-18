@@ -23,6 +23,7 @@ Composers:
 > Tchaikowsky The Crown of Roses
 > Holst This have I done for my true love
 > Greene Hearken unto me, ye holy children
+{: .blockquoteCantandum}
 
 Thomas Tallis (1505-1585) belongs to the period sometimes described as the Golden Age of English church music; he became a Gentleman of the Chapel Royal in the late sixteenth century.  The verse anthem Teach me, O Lord is one of the earliest examples of the use of a solo voice with independent organ part.  The composer of the simple prayer Lord, for thy tender mercy’s sake is somewhat unclear: manuscripts ascribe the music to ‘Farrant’ but this could have been Richard, another of the Gentlemen of the Chapel Royal, or one of the two Johns.  John the elder was master of the choristers at Salisbury and had a particular reputation for a rough temper and ‘rayling and contumelious speeches’; his son John became organist at Salisbury in 1600.  The final ‘amen’ of this short but moving piece is thought to have been added by a John Hilton, of which there were also two, father and son, the latter being one-time organist at St Margaret’s Westminster.
 

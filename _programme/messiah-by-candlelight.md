@@ -8,13 +8,17 @@ image: /assets/images/screen-shot-2016-04-11-at-22-21-00.png
 composers:
     - George Frideric Handel
 ---
-Handel: Messiah
 
-Soloists Caroline Kennedy (soprano), Ben Williamson (countertenor), David de Winter (tenor), Robert Gildon (baritone)
+## Soloists
 
-Cantandum Vyvian Bronk, Helen Prentice, Fiona Sharp soprano; Lucy Chambers, Delia Robertson, Catharine Robertson alto; Tim Dutton, Jonathan Pearce tenor; Peter Langdale, Damian Riddle bass.
+Caroline Kennedy (soprano), Ben Williamson (countertenor), David de Winter (tenor), Robert Gildon (baritone)
 
-Bampton Classical Players Camilla Scarlett, Simon Kodurand violin; Peter Collyer viola; Gareth Deats cello, Carina Cosgrave double bass; Anthony Robson, Jane Downer oboe; Tim Hayward, John Hutchins trumpet; Charles Fullbrook timpani; James Johnstone harpsichord.
+## Cantandum 
+
+Vyvian Bronk, Helen Prentice, Fiona Sharp soprano; Lucy Chambers, Delia Robertson, Catharine Robertson alto; Tim Dutton, Jonathan Pearce tenor; Peter Langdale, Damian Riddle bass.
+
+## Bampton Classical Players 
+Camilla Scarlett, Simon Kodurand violin; Peter Collyer viola; Gareth Deats cello, Carina Cosgrave double bass; Anthony Robson, Jane Downer oboe; Tim Hayward, John Hutchins trumpet; Charles Fullbrook timpani; James Johnstone harpsichord.
 
 Conductor: Gilly French
 

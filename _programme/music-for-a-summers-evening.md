@@ -14,14 +14,15 @@ composers:
     - John Wilbye
     - Zoltán Kodály
 ---
-Phillips Ascendit deus
-Tallis O nata lux
-Viadana Exsultate justi
-Victoria O quam gloriosum
-Stanford Beati quorum via
-Parry My soul, there is a country
-Wilbye Adieu sweet Amaryllis; Draw on sweet night; Sweet honeysucking bees; Yet sweet take heed
-Kodaly Matra Pictures
+> Phillips Ascendit deus  
+> Tallis O nata lux  
+> Viadana Exsultate justi  
+> Victoria O quam gloriosum  
+> Stanford Beati quorum via  
+> Parry My soul, there is a country  
+> Wilbye Adieu sweet Amaryllis; Draw on sweet night; Sweet honeysucking bees; Yet sweet take heed  
+> Kodaly Matra Pictures
+{: .blockquoteCantandum}
 
 Thomas Tallis (1505-1585) and Peter Phillips (1560–1628) belong to the period sometimes described as the Golden Age of English church music. Philips spent most of his adult life in the Spanish Netherlands and for this reason has often been regarded as a member of the Flemish school, yet he staunchly maintained his Englishness.  Apart from Byrd he was the most published English composer of his time.  He is best noted for his madrigals and motets and indeed some of his sacred music has a madrigal-like quality to it.  Ascendit Deus is a glorious five-part setting of Psalm 47, v 5 celebrating the ascent of Christ into heaven. ‘God has gone up with a shout, and the Lord with the sound of the trumpet.  Alleluia.  The Lord has prepared his seat in heaven.  Alleluia.’  The vocal lines are madrigalian in style and often have appropriately upward moving shapes, and the sound of the trumpet is suggested in strongly rhythmic fanfare-like passages.  Tallis became a Gentleman of the Chapel Royal in 1543 and remained there until his death.  He was one of the first composers to write for the new Anglican liturgy and his Elizabethan motets are characterised by an element of restraint.  His beautiful setting of If ye love me, to a text from St John’s Gospel, possesses unusual purity and simplicity, whilst the moving five-part O nata lux de lumine, a setting of the first two verses of the Office Hymn for the Feast of the Transfiguration, shows an expansive fluidity maintained by chromatically-moving inner parts.  It is characterised by an ambivalence of duple/triple time, harmonic false relations and indeterminate tonality and remains one of the composer’s most memorable works.  The Italian Lodovico Viadana (1560-1627) was a friar as well as composer.  His works are characterised by a freshness and fluency.  Exsulktate justi, a setting of psalm 33 vv1-3, is taken from his concerti ecclesiastici of 1602 and was very popular for its tunefulness and colourful word-painting.
 

@@ -9,9 +9,10 @@ composers:
     - Johann Sebastian Bach
     - George Frideric Handel
 ---
-Tallis Lamentations of Jeremiah (second set)
-Bach Cantata BWV 158: Der Friede sei mit dir
-Handel Messiah (Lenten extracts)
+> Tallis Lamentations of Jeremiah (second set)
+> Bach Cantata BWV 158: Der Friede sei mit dir
+> Handel Messiah (Lenten extracts)
+{: .blockquoteCantandum}
 
 Lamentations, in the biblical sense, are lessons – collections of verses – taken from the Old Testament book The Lamentations of Jeremiah and were used during the old Roman Catholic liturgy as part of the office of Tenebrae.  They elicited some of the most sombre and darkly expressive writing from the Renaissance composers who set the texts.  The Englishman Thomas Tallis (1505-1585), one of the supreme masters of late Renaissance polyphony, composed two exquisite settings, each beginning with the announcement ‘Incipit Lamentatio’ and ending with the response ‘Ierusalem convertere ad Dominum Deum tuum’.  Within this structure there are two or three of the biblical verses, each prefaced by successive letters of the Hebrew alphabet (in this, the second set, they are Ghimel, Daleth and He), the soulful melismas of which provide a contrast to the richly varied music of the verses.
 

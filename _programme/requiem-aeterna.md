@@ -10,9 +10,10 @@ composer:
     - Pierre de Manchicourt
     - Maurice Duruflé
 ---
-Clemens non Papa Crux fidelis
-Manchicourt Missa Reges terrae
-Duruflé Requiem
+> Clemens non Papa Crux fidelis
+> Manchicourt Missa Reges terrae
+> Duruflé Requiem
+{: .blockquoteCantandum}
 
 Jacob Clemens non Papa (d.1555) was a Flemish Renaissance composer, prolific in many of the current styles.  Little is know of his early life.  He was succentor at the cathedral at Bruges and also lived and worked in Ypres and Leiden. Primarily a composer of sacred music (including over 200 motets), he was one of the chief representatives of the generation between Josquin and Palestrina and Orlandus Lassus.  Crux fidelis (Faithful Cross above all other) is part of a larger work, Pange lingua, by Saint Venantius Fortunatus (c530-c609); it was written it for a procession that brought a part of the True Cross to Queen Radegunde in 570. This hymn is used on Good Friday during the Adoration of the Cross and in the Liturgy of the Hours during Holy Week and on feasts of the Cross.
 

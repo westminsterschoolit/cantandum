@@ -10,7 +10,9 @@ composers:
     - Giacomo Carissimi
 ---
 > Greene O think what Joy to him is giv’n; Pity soothing melts the soul; Our prayers with God acceptance find; Thou, universal Lord; God of hosts whom we adore; Here let me hold thee to my heart
-Handel Deeper and deeper still; How dark, O Lord, are thy decrees
+{: .blockquoteCantandum}
+
+> Handel Deeper and deeper still; How dark, O Lord, are thy decrees
 Carissimi Jephte (semi-staged performance)
 {: .blockquoteCantandum}
 

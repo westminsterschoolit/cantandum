@@ -8,8 +8,9 @@ composers:
     - Jean Lhéritier
     - John Stainer
 ---
-Lhéritier Surrexit pastor bonus
-Stainer The Crucifixion
+> Lhéritier Surrexit pastor bonus
+> Stainer The Crucifixion
+{: .blockquoteCantandum}
 
 Jean Lhéritier (1480-c1552) was a French Renaissance composer noted mostly for his composition of motets in anticipation of the style of Palestrina.  It is likely that he was a pupil of Jean Mouton.  In 1521 he was appointed chaplain and choirmaster at the church of St Louis des Français in Rome; around 1530 he moved back to France as choirmaster to the papal legate at Avignon, the Cardinal of Clermont, who granted him several lucrative prebends.  The manuscript containing Surrexit pastor bonus (as well as six other pieces by Lhéritier) was a working choirbook for the Julian Chapel in the Vatican and is a major source for motets by composers of the post-Josquin generation.  Dated 1536, it bears the coat of arms of Pope Paul III (1534-49).  Lhéritier’s music was highly regarded in the sixteenth century as is evident from the number and geographical diversity of sources in which his music is found.  Surrexit pastor bonus is a motet for Easter day: ‘The good shepherd, who laid down his life for his sheep, has risen, and he did not disdain to die for his flock.  For truly was Christ the paschal lamb sacrificed for us.  Alleluia’
 

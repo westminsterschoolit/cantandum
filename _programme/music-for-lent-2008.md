@@ -11,11 +11,12 @@ composers:
     - Herbert Howells
     - Domenico Scarlatti
 ---
-Charpentier Le reniement de St Pierre
-Palestrina Sicut cervus
-Howells Like as the hart desireth the waterbrooks
-Howells Take him, earth, for cherishing
-D Scarlatti Stabat Mater
+> Charpentier Le reniement de St Pierre  
+> Palestrina Sicut cervus  
+> Howells Like as the hart desireth the waterbrooks  
+> Howells Take him, earth, for cherishing  
+> D Scarlatti Stabat Mater
+{: .blockquoteCantandum}
 
 Marc-Antoine Charpentier (d 1704) was a prolific and versatile composer, producing music of the highest quality in several genres.  His mastery in the composition of sacred vocal music was recognized and acknowledged by his contemporaries.  He studied with Carissimi and had a working association with Molière before entering the service of the grand dauphin in the early 1680s. He also became attached as composer and master of music to the Jesuit church in Paris, for which he composed a large number of sacred works, before moving to Sainte Chapelle, a post second in prestige only to Versailles. Le reniement de St Pierre (St Peter’s denial of Christ) is one of the composer’s finest biblical oratorio-motets; although described as an oratorio, it was often sung as a motet during Passion week.  The text is a compilation of all four Gospel sources and includes passages for a narrator (AJS and also chorus, here sung one to a part), as was traditional in unstaged oratorios.  The music is dramatic and intensive, with great characterisation of the noble dignity of Jesus (TDP) and the protests of Peter (KAPW).  The denial scene is almost operatic, where Peter almost hysterically shouts that he does not know Christ whilst his accusers just as insistently repeat their identification of him as a disciple.  Then the cock crows.  The piece closes with what has been described as a ‘lacerating choral description of Peter’s horrified self-realisation, and of his going out, and weeping bitterly’; in its almost unbearable poignancy it is not unlike the final chorus of Carissimi’s Jephthe, a piece Charpentier knew very well.
 

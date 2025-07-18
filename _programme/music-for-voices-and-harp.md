@@ -11,11 +11,12 @@ composers:
     - Johannes Brahms
     - Leos Janacek
 ---
-Tallis If ye love me
-Gibbons O clap your hands
-Britten A Ceremony of Carols
-Brahms Op 17 songs
-Janacek Otcenas (Our Father)
+> Tallis If ye love me
+> Gibbons O clap your hands
+> Britten A Ceremony of Carols
+> Brahms Op 17 songs
+> Janacek Otcenas (Our Father)
+{: .blockquoteCantandum}
 
 Thomas Tallis (1505-1585) and Orlando Gibbons (1583-1625) belong to the period sometimes described as the Golden Age of church music and both became Gentlemen of the Chapel Royal, Tallis in the mid sixteenth century and Gibbons around 1603.  Tallis’s beautiful setting of If ye love me, to a text from St John’s Gospel, possesses unusual purity and simplicity and is a fine example of restrained pathos.   Gibbons became organist of Westminster Abbey in 1623.  His O clap your hands dates from 1622 and formed the composer’s DMus submission to Oxford University: written in eight parts, it is a dramatic and majestic setting of Psalm 47 and is one of the most impressive anthems of a composer noted for his Anglican church compositions.
 
