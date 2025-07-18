@@ -1,1 +1,1 @@
-Sitemap: https://westminsterschooltit.github.io/cantandum/sitemap.xml
+Sitemap: https://cantandum.westminster.org.uk/sitemap.xml
