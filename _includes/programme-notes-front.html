@@ -11,7 +11,7 @@
                                 <div class="card h-100">
                                     <img src="{{site.baseurl}}{{ programme.image }}" class="card-img-top img-fluid" alt="{{ programme.title | escape }}" style="height: 250px; object-fit: cover; width: 100%;">
                                     <div class="card-body">
-                                        <a href="{{ programme.url | relative_url }}" class="text-decoration-none text-reset extended-link"><h3 class="card-title">{{ programme.title }}</h3></a>
+                                        <a href="{{ programme.url | relative_url }}" class="text-decoration-none text-reset extended-link"><h2 class="card-title">{{ programme.title }}</h2></a>
                                         {% if programme.date %}
                                             <p class="card-text"><small class="text-muted">{{ programme.date | date: "%B %d, %Y" }}</small></p>
                                         {% endif %}
