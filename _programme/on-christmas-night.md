@@ -22,7 +22,7 @@ composers:
 > Clemens non Papa: *Magi videntes stellam*  
 > Britten: *A Ceremony of Carols*  
 > Vaughan Williams: *Fantasia on Christmas Carols*
-{: .blockquote }
+{: .blockquoteCantandum }
 
 Peter Foster (b 1967) is a composer, choral conductor and teacher based in Oxford.  He was the winner of the Budleigh Carol Competition in 2014, and is currently Director of Music at Our Lady’s Abingdon.  John Donne’s La Corona is a circle of seven sonnets, telling of successive phases of the life of Christ.  Nativity was composed in 2013; this is the first performance of the SATB version.  The poem is concerned with the paradox of the Incarnation: the God who ‘fills all place’, yet who becomes weak and vulnerable.  The music therefore has moments of contained stillness, and moments which allow a much more confident mood to emerge.
 
