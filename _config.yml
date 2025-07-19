@@ -63,7 +63,11 @@ collections:
   programme:
     output: true
     permalink: /programme-notes/:slug/
-
+feed:
+  collections:
+    programme:
+      output: true
+      path: "programme-notes/feed.xml"
 sass:
   sass_dir: _sass
   load_paths:
