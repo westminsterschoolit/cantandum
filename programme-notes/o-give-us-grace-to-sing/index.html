@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>O give us grace to sing | Cantandum - London chamber choir</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="O give us grace to sing" />
+<meta property="og:locale" content="en_GB" />
+<meta name="description" content="A concert celebrating the gift of singing and the grace found in sacred music." />
+<meta property="og:description" content="A concert celebrating the gift of singing and the grace found in sacred music." />
+<link rel="canonical" href="https://cantandum.westminster.org.uk/programme-notes/o-give-us-grace-to-sing/" />
+<meta property="og:url" content="https://cantandum.westminster.org.uk/programme-notes/o-give-us-grace-to-sing/" />
+<meta property="og:site_name" content="Cantandum - London chamber choir" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-12-02T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="O give us grace to sing" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2021-12-02T00:00:00+00:00","datePublished":"2021-12-02T00:00:00+00:00","description":"A concert celebrating the gift of singing and the grace found in sacred music.","headline":"O give us grace to sing","mainEntityOfPage":{"@type":"WebPage","@id":"https://cantandum.westminster.org.uk/programme-notes/o-give-us-grace-to-sing/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://cantandum.westminster.org.uk/assets/images/Westminster-School-logo.webp"}},"url":"https://cantandum.westminster.org.uk/programme-notes/o-give-us-grace-to-sing/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/assets/css/main.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Sorts+Mill+Goudy:ital@0&display=swap" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml" title="Programme Notes Feed" href="/programme-notes/feed.xml">
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top shadow mb-6">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+            <img src="/assets/images/Westminster-School-logo.png" alt="Westminster School Crest" height="30" class="me-2 align-middle"/> Cantandum
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link " aria-current="page" href="/">Home</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link active" href="/programme-notes/">Programme Notes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="/repertory/">Repertory</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="/floreat/">Floreat</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<main class="mt-5">
+    <section id="banner">
+        <div class="container-fluid banner py-2">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 text-left">
+                        <h1 class="display-3 fw-bold">O give us grace to sing</h1>
+                        
+                            <p class="text-muted">December 02, 2021</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+
+    <section id="page-content" class="py-5">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
+                        <blockquote class="blockquoteCantandum">
+  <p>[Programme details to be added]</p>
+</blockquote>
+
+<p>[Concert description and programme notes to be added]</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    
+    
+    <div class="container-fluid main-message py-5" style="height: 200px;">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                
+                    <section id="venue-details text-white">
+                        <div class="container-fluid venue-details">
+                            <div class="container">
+                                    <div class="col-md-10">                     
+                                        <p><strong>Venue:</strong> St Matthew's Westminster</p>
+                                        
+                                        <p><strong>Date:</strong> December 02, 2021</p>
+                                        
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+                
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+  
+    
+        
+
+<div id="leaflet-map" style="height: 400px;"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+    (function() {
+        var placename = "St Matthew's Westminster";
+        console.log("Placename:", placename);
+        // Define known placenames and their lat/lon pairs
+        var knownPlaces = {
+            "St Margaret's Westminster": [51.500270, -0.126263],
+            "Ashburnham Garden": [51.49882, -0.127728],
+            "Westminster School": [51.498407,-0.127949],
+            "St John's Smith Square": [51.499, -0.126],
+            "St Stephen's, Rochester Row": [51.497, -0.128],
+            "Church House": [51.499, -0.128],
+            "Westminster Abbey": [51.499, -0.128],
+            "Great Hall": [51.498, -0.127],
+            "Westminster Chapel": [51.499, -0.127],
+            "Westminster School Chapel": [51.498, -0.127],
+            "St James's Church, Piccadilly": [51.509, -0.135],
+            "St Martin-in-the-Fields": [51.508, -0.124],
+            "St Paul's Cathedral": [51.513, -0.098],
+            "St Bride's Church": [51.513, -0.105],
+            "St John's": [51.500, -0.126],
+            "St James's Park": [51.499, -0.135],
+            "SJE Arts Oxford": [51.754, -1.255],
+            "St Mary's Church, Oxford": [51.754, -1.255],
+            "St Mary's, Bampton": [51.700, -1.500],
+            "Guard's Chapel": [51.500, -0.130]
+        };
+
+        var coords = knownPlaces[placename];
+        var map = L.map('leaflet-map', {
+            zoomControl: false,
+            scrollWheelZoom: false,
+            doubleClickZoom: false,
+            boxZoom: false,
+            dragging: false,
+            touchZoom: false,
+            keyboard: false
+        }).setView([20, 0], 2);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        if (coords) {
+            L.marker(coords).addTo(map).bindPopup(placename);
+            map.setView(coords, 17);
+        } else {
+            // Optionally show a message or fallback
+            L.popup()
+            .setLatLng([20, 0])
+            .setContent('Placename not found: ' + placename)
+            .openOn(map);
+        }
+        map.options.maxZoom = 20;
+        map.options.minZoom = 17;
+        })();
+</script>
+
+    
+
+    
+    <section id="composers-list py-5 ">
+        <div class="container-fluid composers-list text-dark bg-grey py-3">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
+                        <h2>Composers</h2>
+                        <ul>
+                            
+                                <li></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+</main>
+
+<footer class="py-4 main-message">
+    <div class="container-fluid text-white my-2 pt-3">
+        <div class="container">
+            <div class="row justify-content-center text-center align-items-center">
+            <div class="col-md-4 col-sm-12 mb-3">
+                <p class="mb-0">&copy; 2025 Cantandum Singers<br>Westminster School.</p>
+                <div class="social-icons mb-3">
+                        <a href="https://www.facebook.com/cantandum" aria-label="facebook user account" class="mx-2"><i class="fab fa-facebook-f fa-lg"></i></a>
+                        <a href="https://x.com/wscantandum" aria-label="Cantandum X profile" class=" mx-2"><i class="fab fa-x-twitter fa-lg"></i></a>
+                        <a href="mailto:cantandum@westminster.org.uk" aria-label="Email Cantandum" class=" mx-2"><i class="fas fa-envelope fa-lg"></i></a>
+                    </div>
+            </div>
+                <div class="col-md-4 col-sm-12 mb-3 text-center">
+                    <ul class="mb-2 list-unstyled d-inline-block text-start">
+                        <li><a href="/about-us/" class="mx-2">About Us</a></li>
+                        <li><a href="/people/" class="mx-2">People</a></li>
+                        <li><a href="/contact-us/" class="mx-2">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 col-sm-12 mb-3">
+                    <address class="mb-0">
+                    Westminster School<br>
+                    17 Deans Yard<br>
+                    Westminster<br>
+                    London SW1P 3PB
+                    </address>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+       
+
+<script type="module" src="/assets/js/main.min.js"></script>
+</body>
+</html>
