@@ -128,7 +128,7 @@ ul.list-unstyled {
     margin: 0; /* Remove default margin from ULs */
 }
 
-#page-content li {
+#page-content :not(nav) li {
     list-style: none; /* Redundant but harmless, ensures no default bullets */
     position: relative;
     padding-left: 25px; /* Space for the image and a little padding */
@@ -137,7 +137,7 @@ ul.list-unstyled {
     /* background-color: #f0f8ff;  <-- FOR DEBUGGING: Add a light background to see where the LI element is */
 }
 
-#page-content li::before {
+#page-content :not(nav) li::before {
     content: ""; /* Essential for pseudo-elements */
     position: absolute;
     left: 0; /* Position the image at the left edge of the li */
