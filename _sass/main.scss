@@ -152,3 +152,15 @@ ul.list-unstyled {
     background-position: center;
     /* border: 1px solid red;  <-- FOR DEBUGGING: Add a border to see the ::before box */
 }
+/* Override for nav elements */
+#page-content nav li {
+    list-style: none; /* Or disc, circle, square to restore default */
+    padding-left: 0; /* Remove custom padding */
+    margin-bottom: initial; /* Reset margin */
+    line-height: initial; /* Reset line-height */
+}
+
+#page-content nav li::before {
+    content: none; /* Remove the custom bullet */
+    background-image: none; /* Remove background image */
+}
