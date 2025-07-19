@@ -1,0 +1,34 @@
+---
+title: "Vespers for Pentecost"
+layout: default
+venue: "Westminster School Chapel"
+details: true
+description: "A service of Vespers celebrating Pentecost with music appropriate to the feast of the Holy Spirit."
+date: 20190614
+composers:
+    - 
+---
+
+Victoria                Dixit Dominus
+Monteverdi         Beatus vir
+Mozart                 Laudate pueri
+Wesley                 In exitu Israel
+Tallis                     Loquebantur variis linguis
+Harvey                 Come Holy Ghost
+Vivaldi                  Magnificat
+
+Vespers is an evening service of thanksgiving and praise in the Roman Catholic liturgy, roughly equivalent to the Anglican Evensong (which combines aspects of Vespers and Compline, the night service in Roman Catholic liturgy). Vespers takes place as dusk begins to fall and gives thanks for the day just past.  It begins with an opening call to prayer followed by up to five prescribed psalms, a reading and a seasonal hymn before ending with a setting of the Magnificat; short plainsong antiphons specific to the feast frame the psalms. A final Marian antiphon, appropriate to the season, usually finishes the Vespers service. Many composers set only the psalms and Magnificat, expecting the rest to be filled in with plainsong.  The Christian holy day of Pentecost, 50 days after Easter, falls on 9 June this year, and commemorates the descent of the Holy Spirit.  The Acts of the Apostles describes how the crowds gathered in Jerusalem – representing many nationalities and speaking many languages – were able to hear the disciples preaching in their own language.  The feast is associated with the colour red, symbolising joy and holy fire.  In the western church, Pentecost is the last day of the Easter season, which means it is the last day on which the Easter (Paschal) candle is lit for services, and the last day where an Alleluia is added to psalm antiphons.
+
+Tomás Luis de Victoria (1548-1611) was the greatest Spanish Renaissance composer and one of the leading figures of church music. His music is characterised by a direct emotional appeal. Dixit Dominus is one of the more belligerent of biblical texts, in which the psalmist (Psalm 110) declares God’s intention to destroy the heathen, and Victoria’s brief setting combines effective counterpoint with a forthright, rhythmic energy. The doxology is in brisk triple time, perhaps symbolizing the three persons of the Trinity).
+
+Claudio Monteverdi (1567-1643) was a significant influence in European music history, whose works are pivotal between the Renaissance and Baroque periods. Beatus vir, a much-loved setting of Psalm 112, ‘Blessed is the man that feareth the Lord’, comes from his Selva morale e spitiruale of 1641. In it, the Holy Spirit reveals where true happiness is to be found. It is scored for two violins and continuo and has its origin in a canzonetta, Chiome d’oro.
+
+Wolfgang Amadeus Mozart (1756-1791) was a prolific and groundbreaking Enlightenment composer. Most of his sacred output – 16 masses and 30 or so other sacred works – was written during his time at the court of the Prince-Archbishop of Salzburg. Laudate pueri is from Vesperae solennes de Confessore of 1780 and is for SATB and modest orchestra. It is reminiscent of church polyphony but with an injection of 18th-century forward momentum and characteristic expressiveness, especially in the concluding Amens.
+
+Samuel Wesley (1766-1837) was a child prodigy, described by some as the English Mozart. The vigorously contrapuntal In exitu Israel, with a text from Psalm 114, is written in eight parts and scored for double choir. The melody is based in part on the eighth plainsong tone, and the musical content is vigorous and thrilling.
+
+Thomas Tallis (1505-85) was the most important English composer of his time. His output encompasses early and late sixteenth-century English styles and his career reflects the religious upheaval and political change that affected church music of this period. His seven-voiced motet Loquebantur variis linguis is a choral Respond for Pentecost. The tenor sings the cantus firmus, with the other six parts weaving around it a vigorous web of polyphony. The text describes the disciples speaking ‘in tongues’ at the first Pentecost. The piece follows the liturgical ABCB form of the text, starting with a plainsong incipit before moving through two lengthy points of imitation to a jubilant ‘Alleluia’. It ends with a doxology and final Alleluia.
+
+Jonathan Harvey (1939–2012) was an English composer who drew much of his compositional inspiration from religious material. He cultivated an eclectic outlook, contributing to a rich and varied compositional output. Come, Holy Ghost (1984) is a work in five sections, essentially a theme with variations to a text associated with the Feast of Pentecost, and is depicted in an extraordinarily vivid way. The plainsong Veni Creator Spiritus, is first heard in the baritones, with other singers contributing to an effect rather like a sustaining pedal. In the second verse, canonic writing appears against a chordal backdrop, with fragments of treble melody floating weightlessly. Verse 3 sees a tenor soloist sing an increasingly distorted melody – like the disciples he begins in a language one understands but gradually mutates into another tongue. In the fourth verse there are more slow moving chords for the lower voices, while the sopranos sing melodic fragments in free time. In verse 5 the lower voices have aleatoric writing, with segments of melody in free time and in an order of the singer’s own choosing. The rushing wind emerges in the distance, overwhelms us, and then dissipates before the doxology. The whole choir ends softly in unison, emphasizing the unity of the three persons of the Trinity. The simplicity and purity of the beginning and end of the work, contrasting with much complexity, are hallmarks of Harvey’s liturgical music.
+
+The Magnificat, with a text from Luke 1: 46-55, is one of the most ancient Christian hymns and one of the first in honour of the Virgin Mary. That by Antonio Vivaldi (1678-1741) was written during his long years as music director of the Ospedale della Pietà, an orphanage in Venice. There are nine short movements. The solemnity of the Magnificat and Suscepit Israel is characterised by hymn-like chords and a masterly chromaticism whilst the expressively contrapuntal Et misericordia is full of intensity. Fecit potentiam and Deposuit, traditionally dramatic, are depicted through striking instrumentation and bold unison writing, the latter depicting the fall of the mighty and the exaltation of the humble. The solo sections are all short ensembles with momentum and purpose; the concluding Gloria ends with a fugue one wishes were longer.
