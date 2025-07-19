@@ -614,6 +614,13 @@ progress {
 .g-4 {
   --bs-gutter-y: 1.5rem;
 }
+
+@media (min-width: 576px) {
+  .col-sm-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+}
 @media (min-width: 768px) {
   .row-cols-md-2 > * {
     flex: 0 0 auto;
@@ -1405,6 +1412,10 @@ progress {
   padding-bottom: 3rem !important;
 }
 
+.pt-3 {
+  padding-top: 1rem !important;
+}
+
 .fw-bold {
   font-weight: 700 !important;
 }
@@ -1703,7 +1714,7 @@ body {
 footer {
   background-color: #032e47;
   color: #ffffff;
-  height: 400px;
+  height: 300px;
 }
 footer a {
   color: #ffffff;
@@ -1754,6 +1765,10 @@ h2, .h2 {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.bg-blue {
+  background-color: #032e47 !important;
 }
 
 ul.list-unstyled {
