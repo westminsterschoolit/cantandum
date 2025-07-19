@@ -22409,4 +22409,35 @@ ul.list-unstyled {
   background-color: rgba(153, 156, 161, 0.7137254902) !important;
 }
 
+#page-content ul {
+  list-style: none; /* Make absolutely sure default bullets are gone for these ULs */
+  padding: 0; /* Remove default padding from ULs to control spacing with LI padding */
+  margin: 0; /* Remove default margin from ULs */
+}
+
+#page-content li {
+  list-style: none; /* Redundant but harmless, ensures no default bullets */
+  position: relative;
+  padding-left: 25px; /* Space for the image and a little padding */
+  margin-bottom: 8px; /* Space between list items */
+  line-height: 1.5; /* Adjust for text alignment */
+  /* background-color: #f0f8ff;  <-- FOR DEBUGGING: Add a light background to see where the LI element is */
+}
+
+#page-content li::before {
+  content: ""; /* Essential for pseudo-elements */
+  position: absolute;
+  left: 0; /* Position the image at the left edge of the li */
+  top: 50%; /* Vertically center the image */
+  transform: translateY(-50%); /* Adjust for perfect vertical centering */
+  width: 16px; /* Set image width */
+  height: 16px; /* Set image height */
+  /* IMPORTANT: Adjust this path based on where your CSS file is relative to your image */
+  background-image: url("/assets/images/rose-cropped.svg"); /* Example: Assuming image is at /assets/images/your-bullet-image.svg from root */
+  background-size: contain; /* Scales image to fit without cropping */
+  background-repeat: no-repeat;
+  background-position: center;
+  /* border: 1px solid red;  <-- FOR DEBUGGING: Add a border to see the ::before box */
+}
+
 /*# sourceMappingURL=main.css.map */
