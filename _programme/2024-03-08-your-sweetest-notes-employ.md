@@ -1,10 +1,11 @@
 ---
-title: "your sweetest notes employ"
+title: "Your sweetest notes employ"
 layout: default
 venue: "Guard's Chapel"
 details: true
 description: "A concert celebrating the beauty of sacred music with works that employ the sweetest notes of choral tradition."
 date: 20240308
+image: /assets/images/476398645_1298944694632615_307762129408279843_n.jpg
 composers:
     - Sir Charles Villiers Stanford
     - Mozart

@@ -5,6 +5,7 @@ venue: "Guard's Chapel"
 details: true
 description: "A concert featuring the contrasting yet complementary works of Joseph Haydn and Charles Villiers Stanford."
 date: 20230309
+image: /assets/images/502972718_10234540306661917_3955130635025992115_n.jpg
 composers:
     - Joseph Haydn
     - Charles Villiers Stanford

@@ -5,6 +5,7 @@ venue: "Ashburnham garden"
 details: true
 description: "A summer garden concert celebrating the beauty of nature and the transient nature of life through choral music."
 date: 20220617
+image: /assets/images/480686639_2541759206030368_918592212462190050_n.jpg
 composers:
     - 
 ---

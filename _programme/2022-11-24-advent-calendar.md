@@ -5,6 +5,7 @@ venue: "St Stephen's, Rochester Row"
 details: true
 description: "A Floreat concert celebrating the Advent season with music marking the approach of Christmas."
 date: 20221124
+image: /assets/images/496268169_10234303629785143_6640845216529323596_n.jpg
 composers:
     - Ledger
     - Gibbons

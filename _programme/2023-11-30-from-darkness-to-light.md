@@ -5,6 +5,7 @@ venue: "St Stephen's, Rochester Row"
 details: true
 description: "A concert exploring the journey from darkness to light through sacred choral music."
 date: 20231130
+image: /assets/images/476099596_1296497311544020_6095055138450864273_n.jpg
 composers:
     - Philip Ledger
     - Dietrich Buxtehude

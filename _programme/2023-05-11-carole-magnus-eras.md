@@ -7,6 +7,7 @@ description: "A Floreat concert featuring music written for and in celebration o
 date: 20230511
 composers:
     - 
+image: /assets/images/472694161_1276806933513058_7714879660423850118_n.jpg
 ---
 
 No Details in the Wayback machine.

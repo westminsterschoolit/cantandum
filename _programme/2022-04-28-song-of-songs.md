@@ -7,6 +7,7 @@ description: "A Floreat concert featuring musical settings of the Song of Songs,
 date: 20220428
 composers:
     - Giovanni Pierluigi da Palestrina
+image: /assets/images/481995120_2537966796409609_9212890402848070929_n.jpg
 ---
 
 St Stephen’s, Rochester Row

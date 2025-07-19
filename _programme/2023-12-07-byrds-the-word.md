@@ -5,6 +5,7 @@ venue: "St Matthew's Westminster"
 details: true
 description: "A Floreat concert celebrating the genius of William Byrd, one of England's greatest composers."
 date: 20231207
+image: /assets/images/476004915_1296504828209935_4908642338181519064_n.jpg
 composers:
     - William Byrd
     - Josquin

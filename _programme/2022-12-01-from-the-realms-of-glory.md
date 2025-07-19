@@ -5,6 +5,7 @@ venue: "St Matthew's Westminster"
 details: true
 description: "A Christmas concert celebrating the birth of Christ with music from the realms of glory."
 date: 20221201
+image: /assets/images/470872029_1263052874888464_4122035590150326710_n.jpg
 composers:
     - Rutter
     - Durante

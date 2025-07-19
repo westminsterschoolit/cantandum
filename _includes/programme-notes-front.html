@@ -1,7 +1,8 @@
-<section id="programmes" class="py-5">
+<section id="programmes" class="py-2">
     <div class="container-fluid">
         <div class="container">
             <div class="row">
+                <h2 class="text-center mb-4 fw-bold">Programme Archive</h2>
                 {% assign sorted_programmes = site.programme | sort: "date" | reverse %}
                 {% assign count = 0 %}
                 {% for programme in sorted_programmes %}
@@ -19,7 +20,7 @@
                                 </div>
                         </div>
                         {% assign count = count | plus: 1 %}
-                        {% if count == 6 %}
+                        {% if count == 12 %}
                             {% break %}
                         {% endif %}
                     {% endif %}

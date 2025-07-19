@@ -5,6 +5,7 @@ venue: "Guard's Chapel"
 details: true
 description: "A performance of Haydn's masterwork The Creation, depicting the creation of the world through magnificent choral music."
 date: 20220318
+image: /assets/images/481186643_2532888040250818_4863906616292790642_n.jpg
 composers:
     - Joseph Haydn
 ---
