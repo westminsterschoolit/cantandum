@@ -497,6 +497,10 @@ progress {
   vertical-align: baseline;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
@@ -1340,11 +1344,6 @@ progress {
 .my-2 {
   margin-top: 0.5rem !important;
   margin-bottom: 0.5rem !important;
-}
-
-.my-4 {
-  margin-top: 1.5rem !important;
-  margin-bottom: 1.5rem !important;
 }
 
 .my-5 {
