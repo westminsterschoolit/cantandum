@@ -1,7 +1,7 @@
 ---
 title: "My spirit sang all day"
 layout: default
-venue: "Ashburnham garden"
+venue: "Ashburnham Garden"
 details: true
 description: "A summer garden concert celebrating the joy of music with works that capture the spirit's song throughout the day."
 date: 20180615
