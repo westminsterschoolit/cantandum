@@ -33,7 +33,7 @@
 
     {% if page.image %}
     <section id="page-image">
-        <div class="container my-4">
+        <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center py-2">
                     <img src="{{ page.image | relative_url }}" alt="{{ page.title }} image" class="img-fluid">
@@ -61,7 +61,7 @@
         {% include map.html placename=page.venue %}
     {% endif %}
 
-    {% if page.composers %}
+    {% if page.composers and page.composers.size > 0 %}
     <section id="composers-list py-5 ">
         <div class="container-fluid composers-list text-dark bg-grey py-3">
             <div class="container">

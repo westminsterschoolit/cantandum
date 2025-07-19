@@ -1,7 +1,7 @@
 ---
 title: "The flower of the field"
 layout: default
-venue: "Ashburnham garden"
+venue: "Ashburnham Garden"
 details: true
 description: "A summer garden concert celebrating the beauty of nature and the transient nature of life through choral music."
 date: 20220617
@@ -10,7 +10,7 @@ composers:
     - 
 ---
 
-Music for singing outdoors
+## Music for singing outdoors
 
 Bennett – All creatures now
 Padilla – Kyrie and Gloria from Missa Ego flos campi
