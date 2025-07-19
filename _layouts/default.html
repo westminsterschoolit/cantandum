@@ -17,7 +17,7 @@
 
 <main class="mt-5">
     <section id="banner">
-        <div class="container-fluid banner py-2">
+        <div class="container-fluid banner py-4">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-10 text-left">
@@ -36,19 +36,24 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center py-2">
-                    <img src="{{ page.image | relative_url }}" alt="{{ page.title }} image" class="img-fluid">
+                    <img src="{{ page.image | relative_url }}" alt="An image to represent {{ page.title }} image" class="img-fluid">
                 </div>
             </div>
         </div>
     </section>
     {% endif %}
 
-    <section id="page-content" class="py-5">
+    <section id="page-content" class="py-2">
         <div class="container-fluid">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-10">
+                        
                         {{ content }}
+
+                        <div class="text-center my-4">
+                            <img src="{{ '/assets/images/rose-cropped.svg' | relative_url }}" alt="Rose illustration" class="img-fluid" style="max-width: 100px;">
+                        </div>
                     </div>
                 </div>
             </div>
