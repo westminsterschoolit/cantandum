@@ -9,9 +9,10 @@ composers:
     - Johannes Brahms
 ---
 
-Amanda Pitt soprano
-Sam Young baritone
-Martin Ford, Jonathan Dods piano
+* Amanda Pitt soprano
+* Sam Young baritone
+* Martin Ford, Jonathan Dods piano
+
 Brahms’ Ein Deutsches Requiem is one of the great choral masterpieces of all time. Its name affords a clear distinction from the Catholic Requiem, or Missa pro defunctis, Brahms’s work being in the vernacular and intended for Protestant use but in a concert setting.
 
 The drawn-out genesis of the piece was typical of a composer whose sense of perfection seemed to intensify in proportion with the size of the challenge. The sinister ‘march’ of the second movement is rooted in music written around the time of Robert Schumann’s tragic demise in 1856, while much of the rest was composed in the aftermath of the death nine years later of Christiane Brahms, the composer’s mother. While Brahms himself remained characteristically unforthcoming, many believe that his Requiem honours the memory of both, though it offers more comfort to the living than a prayer for the departed. Its partial première – in 1867 – was of the first three movements only; the first performance proper took place in Bremem in 1868 and the fifth movement was added later that year. The overall form is magnificent and elegantly conceived, being symmetrical about the fourth movement: the first three numbers representing mourning and a struggle with the acceptance of dying and the last three a reconciliation with – and victory over – death. The fourth movement is an archstone to the whole work.

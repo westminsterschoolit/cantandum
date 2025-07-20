@@ -6,12 +6,14 @@ details: true
 description: "A concert featuring music of power and majesty, including settings of Rex tremendae and other works of grandeur."
 date: 20200311
 composers:
-    - 
+    - Schütz
+    - Mendelssohn
 ---
-Schütz                   Selig sind die Toten
-Mendelssohn       Richte mich, Gott
-Brahms                 Geistliches Lied op 30
-Mozart                  Requiem
+- **Schütz** – Selig sind die Toten
+- **Mendelssohn** – Richte mich, Gott
+- **Brahms** – Geistliches Lied op 30
+- **Mozart** – Requiem
+
 with Martin Ford, Jonathan Dods (piano and organ)
 
 The text of Selig sind die Toten, ‘Blessed are the dead who die in the Lord’, is from Revelation 14 and forms part of the Burial Service in both Lutheran and Anglican liturgy.  The setting by Heinrich Schütz (1585-1672), from the Geistliche Chormusik of 1648, is one of the best known.  It is in six parts, dignified and consolatory, and represents a move away from the Venetian extravagance of the composer’s earlier work, placing more emphasis on traditional imitative polyphony.  There is strong expressive contrast between sections and some lovely word-painting at ‘und ihrer Werke folgen ihnen nach’ (‘and their works follow them’), where each part imitatively ‘follows’ another.

@@ -2,7 +2,7 @@
 title: Music for a summer's evening
 layout: default
 details: true
-venue: The Chapel, Church House
+venue: Church House
 description: An evening of choral music featuring works by Renaissance and Romantic composers, celebrating the beauty and spirit of summer through song.
 date: 20030623
 composers:

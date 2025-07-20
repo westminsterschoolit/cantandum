@@ -2,7 +2,7 @@
 title: Lamentations
 layout: default
 details: true
-venue: "St Stephen's Rochester Row"
+venue: "St Stephen's, Rochester Row"
 description: "A concert featuring Tallis's Lamentations, Bach's Cantata BWV 158, and Handel's Messiah extracts, exploring sacred music for the Lenten season."
 date: 20070314
 composers:

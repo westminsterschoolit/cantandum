@@ -2,7 +2,7 @@
 title: Music for the Queen of Heaven
 layout: default
 details: true
-venue: St Mary's, Bampton, Oxon
+venue: "St Mary's, Bampton"
 date: 20121122
 image: /assets/images/screen-shot-2016-04-11-at-21-42-49.webp
 description: A concert celebrating Marian music by Palestrina, Vivaldi, Victoria, and Steffani, performed at St Mary's, Bampton, on St Cecilia's feast day.

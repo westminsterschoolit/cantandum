@@ -6,7 +6,6 @@ details: true
 description: "A Floreat concert offering a musical meditation on the Stations of the Cross, following Christ's path to Calvary."
 date: 20200301
 composers:
-    - 
 ---
 
 Introit 
@@ -54,12 +53,15 @@ Victoria Caligaverunt oculi mei
 Station XIV Jesus is placed in the tomb
 Byrd Civitas sancti tui                      
 
-FLOREAT
+## FLOREAT
 Gilly French, Hannah O’Toole-Thrower, Helen Prentice, Isabel Nesbit
 Kevin Walsh, Manvinder Rattan, Iain Butler, William Nicholson
 
-READER Jeremy Gray
-ORGAN William Nicholson
+## READER 
+Jeremy Gray
+
+## ORGAN 
+William Nicholson
 
 Tomás Luis de Victoria (1548-1611) was the greatest Spanish Renaissance composer and one of the leading figures of church music.  After 21 years in Rome and his ordination in 1575, he became chaplain to the Dowager Empress Maria in Madrid; he remained at the royal convent of the Barefooted Nuns of St Clare, first as choirmaster and later as organist, until his death 24 years later.  His music ranks with the greatest masterpieces of the Renaissance, and is characterised by a mystical intensity and direct emotional appeal.  
 

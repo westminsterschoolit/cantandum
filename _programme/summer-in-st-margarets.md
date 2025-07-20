@@ -1,7 +1,7 @@
 ---
 title: "Summer at St Margaret’s"
 layout: default
-venue: "St Margaret's Westminster"
+venue: "St Margaret's, Westminster"
 details: true
 description: "A delightful summer concert featuring choral music in the beautiful setting of St Margaret's Westminster, celebrating the season with both sacred and secular works."
 date: 20160602

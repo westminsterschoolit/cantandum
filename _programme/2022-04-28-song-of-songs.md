@@ -10,13 +10,14 @@ composers:
 image: /assets/images/481995120_2537966796409609_9212890402848070929_n.jpg
 ---
 
-St Stephen’s, Rochester Row
-Palestrina Missa Papae Marcelli
-Clemens Ego flos campi
-Palestrina Osculetur me
-Victoria Vidi speciosam, Vadam et circuibo, Nigra sum
-Lassus Surge propera
-Byrd Laudibus in sanctis
+> St Stephen’s, Rochester Row  
+> Palestrina Missa Papae Marcelli  
+> Clemens Ego flos campi  
+> Palestrina Osculetur me  
+> Victoria Vidi speciosam, Vadam et circuibo, Nigra sum  
+> Lassus Surge propera  
+> Byrd Laudibus in sanctis
+{: .blockquote }
 
 ## FLOREAT
 Gilly French, Helen Prentice, Helena Bickley-Percival, Catharine Robertson

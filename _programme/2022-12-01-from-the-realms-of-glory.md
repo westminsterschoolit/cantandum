@@ -1,7 +1,7 @@
 ---
 title: "From the realms of glory"
 layout: default
-venue: "St Matthew's Westminster"
+venue: "St Matthew's, Westminster"
 details: true
 description: "A Christmas concert celebrating the birth of Christ with music from the realms of glory."
 date: 20221201
@@ -10,18 +10,21 @@ composers:
     - Rutter
     - Durante
 ---
-Rutter Angels carol
-Durante Magnificat
-Ledger The voice of the Angel Gabriel
-Philips Gabriel Angelus
-Palestrina Stetit angelus
-Dering Factum est silencium
-Ledger Angels from the realms of glory
-Pearsall In dulci jubilo
-Harris Faire is the heaven
-Bairstow Let all mortal flesh keep silence
-Vaughan Williams Te Deum in G
-St Matthew’s Westminster
+> **Programme**
+>
+> - Rutter: Angels’ Carol
+> - Durante: Magnificat
+> - Ledger: The Voice of the Angel Gabriel
+> - Philips: Gabriel Angelus
+> - Palestrina: Stetit Angelus
+> - Dering: Factum est Silentium
+> - Ledger: Angels from the Realms of Glory
+> - Pearsall: In Dulci Jubilo
+> - Harris: Faire is the Heaven
+> - Bairstow: Let All Mortal Flesh Keep Silence
+> - Vaughan Williams: Te Deum in G
+>
+> *Venue: St Matthew’s, Westminster*
  
 
 Tonight’s concert is on the theme on angels, not all of them Christmas ones. What you will hear this evening is music that is about, directly or indirectly, or has been inspired by, these timelessly enduring beings.

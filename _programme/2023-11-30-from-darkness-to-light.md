@@ -12,19 +12,19 @@ composers:
     - John Rutter 
 ---
 
-Ledger   Jesus Christ the Apple Tree
-Buxtehude   Magnificat
-Ledger   Adam lay y bounden
-Wilbye   Draw on, sweet night
-East   Hence stars, too dim of light
-Rutter   Dormi, Jesu
-Davies   O little town of Bethlehem
-Poulenc   Videntes stellam
-Handl   Ab Oriente venerunt magi
-Holst   Nunc dimittis
-Macmillan   O radiant dawn
-Wood   O thou the central orb
-Handel   Let the bright seraphim; Let their celestial concerts all unite
+- Ledger – Jesus Christ the Apple Tree
+- Buxtehude – Magnificat
+- Ledger – Adam lay y bounden
+- Wilbye – Draw on, sweet night
+- East – Hence stars, too dim of light
+- Rutter – Dormi, Jesu
+- Davies – O little town of Bethlehem
+- Poulenc – Videntes stellam
+- Handl – Ab Oriente venerunt magi
+- Holst – Nunc dimittis
+- Macmillan – O radiant dawn
+- Wood – O thou the central orb
+- Handel – Let the bright seraphim; Let their celestial concerts all unite
 
 Philip Ledger (1937-2012) was Director of Music of King’s College, Cambridge between 1974 and 1982, and a noted choral composer. Jesus Christ the Apple Tree is an 18th-century poem that first appeared in London’s Spiritual Magazine in August 1761. The text to Adam lay y bounden is thought to date from around 1400 and is a macaronic setting of the story of the Fall of Man, Adam being released from limbo by the death of Christ four thousand years later.  Ledger’s settings are refreshingly unostentatious in their simplicity and craftsmanship, demonstrating simple yet memorable melody and harmony in uncomplicated verse structures.
 

@@ -6,16 +6,15 @@ details: true
 description: "A service of Vespers celebrating Pentecost with music appropriate to the feast of the Holy Spirit."
 date: 20190614
 composers:
-    - 
 ---
 
-Victoria                Dixit Dominus
-Monteverdi         Beatus vir
-Mozart                 Laudate pueri
-Wesley                 In exitu Israel
-Tallis                     Loquebantur variis linguis
-Harvey                 Come Holy Ghost
-Vivaldi                  Magnificat
+- Victoria Dixit Dominus
+- Monteverdi Beatus vir
+- Mozart Laudate pueri
+- Wesley In exitu Israel
+- Tallis Loquebantur variis linguis
+- Harvey Come Holy Ghost
+- Vivaldi Magnificat
 
 Vespers is an evening service of thanksgiving and praise in the Roman Catholic liturgy, roughly equivalent to the Anglican Evensong (which combines aspects of Vespers and Compline, the night service in Roman Catholic liturgy). Vespers takes place as dusk begins to fall and gives thanks for the day just past.  It begins with an opening call to prayer followed by up to five prescribed psalms, a reading and a seasonal hymn before ending with a setting of the Magnificat; short plainsong antiphons specific to the feast frame the psalms. A final Marian antiphon, appropriate to the season, usually finishes the Vespers service. Many composers set only the psalms and Magnificat, expecting the rest to be filled in with plainsong.  The Christian holy day of Pentecost, 50 days after Easter, falls on 9 June this year, and commemorates the descent of the Holy Spirit.  The Acts of the Apostles describes how the crowds gathered in Jerusalem – representing many nationalities and speaking many languages – were able to hear the disciples preaching in their own language.  The feast is associated with the colour red, symbolising joy and holy fire.  In the western church, Pentecost is the last day of the Easter season, which means it is the last day on which the Easter (Paschal) candle is lit for services, and the last day where an Alleluia is added to psalm antiphons.
 

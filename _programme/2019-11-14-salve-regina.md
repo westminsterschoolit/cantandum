@@ -1,29 +1,29 @@
 ---
 title: "Salve Regina – music from Trinity to All Souls"
 layout: default
-venue: "St Matthew's Westminster"
+venue: "St Matthew's, Westminster"
 details: true
 description: "A Floreat concert spanning the liturgical season from Trinity to All Souls, featuring Marian music including Salve Regina."
 date: 20191114
 composers:
-    - 
 ---
 
-Weelkes                                  Alleluia, I hear a voice
-Palestrina                               Kyrie from Missa Salve Regina
-Tallis                                        O nata lux
-Victoria                                   Vidi speciosam
-Palestrina                               Gloria from Missa Salve Regina
-Dering                                     Factum est silencium
-Bach                                        Pièce d’orgue BWV 572 (Organ: WN)
-Guerrero                                 In conspectu gloriosum
-Palestrina                               Sanctus & Benedictus from Missa Salve Regina
-Byrd                                         O quam gloriosum
-Stanford                                  Justorum animae
-Palestrina                               Agnus Dei from Missa Salve Regina
-Poulenc                                  Salve Regina
+- Weelkes – Alleluia, I hear a voice
+- Palestrina – Kyrie from Missa Salve Regina
+- Tallis – O nata lux
+- Victoria – Vidi speciosam
+- Palestrina – Gloria from Missa Salve Regina
+- Dering – Factum est silencium
+- Bach – Pièce d’orgue BWV 572 (Organ: WN)
+- Guerrero – In conspectu gloriosum
+- Palestrina – Sanctus & Benedictus from Missa Salve Regina
+- Byrd – O quam gloriosum
+- Stanford – Justorum animae
+- Palestrina – Agnus Dei from Missa Salve Regina
+- Poulenc – Salve Regina
 
-FLOREAT
+## FLOREAT
+
 Gilly French, Kevin Walsh, Helen Prentice, Iain Butler
 Fiona Sharp, Catharine Robertson, Nick Dykes, William Nicholson
 

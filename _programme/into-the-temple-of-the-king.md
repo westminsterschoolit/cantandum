@@ -2,7 +2,7 @@
 title: Into the temple of the King
 layout: default
 details: true
-venue: "St Stephen's Rochester Row"
+venue: "St Stephen's, Rochester Row"
 description: "A concert exploring the rich sonorities of voices and trombones, featuring works by Purcell, Bruckner, and Caldara at St Stephen's Rochester Row."
 date: 20060316
 composers:

@@ -10,9 +10,9 @@ composers:
     - Sir Charles Villiers Stanford
     - Mozart
 ---
-Stanford Ye choirs of new Jerusalem
-Stanford How beauteous are the feet
-Mozart Great Mass in C minor, KV 427
+- Stanford: *Ye choirs of New Jerusalem*
+- Stanford: *How beauteous are the feet*
+- Mozart: *Great Mass in C minor, KV 427*
 
 The Anglo-Irish Sir Charles Villiers Stanford (1852-1924) was organist at Trinity College Cambridge and one of the founding professors of the Royal College of Music, where he taught composition. He was influenced by the classical principles of the music of Johannes Brahms, and counted amongst his pupils Holst and Vaughan Williams.
 

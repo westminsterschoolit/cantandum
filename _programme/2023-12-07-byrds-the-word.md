@@ -1,7 +1,7 @@
 ---
 title: "Byrd's the Word"
 layout: default
-venue: "St Matthew's Westminster"
+venue: "St Matthew's, Westminster"
 details: true
 description: "A Floreat concert celebrating the genius of William Byrd, one of England's greatest composers."
 date: 20231207
@@ -10,17 +10,17 @@ composers:
     - William Byrd
     - Josquin
 ---
-Josquin   Praeter rerum serium
-Tallis   Videte miraculum
-Byrd   Laudibus in sanctis
-Byrd   Kyrie from Mass for four voices
-Byrd   Vigilate
-Byrd   Sanctus and Benedictus from Mass for four voices
-Byrd   O quam gloriosum
-Byrd   Agnus Dei from Mass for four voices
-Bach   Lobet den Herrn
-Janequin   Le chant des oyseaux
-Passereau   Il est bel et bon
+- Josquin – Praeter rerum serium
+- Tallis – Videte miraculum
+- Byrd – Laudibus in sanctis
+- Byrd – Kyrie from Mass for Four Voices
+- Byrd – Vigilate
+- Byrd – Sanctus and Benedictus from Mass for Four Voices
+- Byrd – O quam gloriosum
+- Byrd – Agnus Dei from Mass for Four Voices
+- Bach – Lobet den Herrn
+- Janequin – Le chant des oyseaux
+- Passereau – Il est bel et bon
 
 The magnificent Praeter rerum seriem, by Josquin (1450?-1521) takes the form of a succession of carefully worked motifs around the cantus firmus on which it is based. For much of the piece the polyphony is presented antiphonally between the three upper voices, when the chant is in the soprano, and the three lower voices, when it is in the tenor. The second part of the motet is rather freer than the first, concealing the plainchant in what has become a more consistently six-part texture, breaking into triple-time where the text makes final reference to the mystery of the Trinity, before returning to the duple time of ‘Mater ave’.
 

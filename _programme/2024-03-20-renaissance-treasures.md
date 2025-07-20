@@ -9,11 +9,11 @@ composers:
     - Alonso Lobo
 ---
 
-Lobo Versa est in luctum
-Lassus Missa Bell’ Amfitrit altera
-Byrd Ne irascaris Domine
-Josquin Praeter rerum serium
-White Lamentations a5
+- Lobo Versa est in luctum
+- Lassus Missa Bell’ Amfitrit altera
+- Byrd Ne irascaris Domine
+- Josquin Praeter rerum serium
+- White Lamentations a5
 
 Alonso Lobo (1555-1617) was a Spanish composer of the late Renaissance, considered by Tomás Luis de Victoria as his equal. Lobo’s elegiac masterpiece Versa est in luctum was written in 1598 for the memorial service at Toledo Cathedral for Philip II of Spain. One of his most enduring works, it was published in his Liber primus missarum of 1602, headed ‘Ad exequias Philip. II Cathol. Regis Hisp.’. The text is an exquisite and evocative imagery of heavenly harps, organs and voices in songful mourning. Waves of entries roll over one another, drawing the ear into cycles of harmonic movement, before resolving redemptively in the major.
 

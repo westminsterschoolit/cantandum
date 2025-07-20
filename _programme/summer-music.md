@@ -2,7 +2,7 @@
 title: Summer music
 layout: default
 details: true
-venue: Ashburnham garden
+venue: Ashburnham Garden
 date: 20090605
 image: /assets/images/screen-shot-2016-03-31-at-21-24-37.webp
 description: A summer concert featuring English madrigals and folk-inspired works by Vautor, Gibbons, Kodály, and Vanhal in Ashburnham garden.

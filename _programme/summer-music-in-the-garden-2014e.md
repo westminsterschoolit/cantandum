@@ -2,7 +2,7 @@
 title: Summer Music in the Garden 2014
 layout: default
 details: true
-venue: Ashburnham garden
+venue: Ashburnham Garden
 date: 20140613
 description: A summer concert featuring choral works by Mozart, Schütz, Mendelssohn, and Handel, performed in Ashburnham garden on June 13, 2014.
 composers:

@@ -1,19 +1,20 @@
 ---
 title: "O sing unto the Lord"
 layout: default
-venue: "St Margaret's Church, Westminster Abbey"
+venue: "St Margaret's Church, Westminster"
 details: true
 description: "A concert celebrating the joy of singing praises to the Lord with works that call us to worship."
 date: 20191206
 composers:
-    - 
+    - Purcell
+    - Buxtehude
+    - Handel
 ---
 
-O sing unto the Lord
-St Margaret’s Church, Westminster Abbey
-Henry Purcell                                    O sing unto the Lord
-Dieterich Buxtehude                       Das neugeborne Kinderlein
-G.F.Handel                                         Dixit Dominus
+- **Henry Purcell** – O sing unto the Lord
+- **Dieterich Buxtehude** – Das neugeborne Kinderlein
+- **G.F. Handel** – Dixit Dominus
+
 O sing unto the Lord is a relatively late work, dating from 1688. It shows Purcell at his most Italianate, with vigorous antiphony between voices and instruments, and between a prominent solo bass and the chorus. The piece opens with a Symphony for strings and continuo, with a chromatically expressive interlude between the celebratory opening and the imitative second section. The vocal writing opens with the solo bass and is followed by two lilting choral alleluias before arriving at an instrumental ritornello. The four-part verse Sing unto the Lord and praise his name leads straight into a declamatory Declare his honour. There follows a duet for soprano and alto, The Lord is great, and another string ritornello. The moving central section, O worship the Lord in the beauty of holiness, opens with a hushed quartet before being taken up by the whole choir. A joyfully antiphonal Tell it out amongst the heathen, for bass and choir, leads to a final section of gentle Alleluias. Although the writing is overtly celebratory, behind it is the deliciously wistful quality which is a feature of so much of Purcell’s music.
 
 Dietrich Buxtehude was born and educated in Denmark but became a citizen of Lübeck at the age of 30, when he assumed his lifelong post at the Marienkirche. His surviving choral works illustrate a moment of musical transition in the mid-17th century, utilising the strophic structure of Lutheran hymns and making a strong, consistent use of the basso continuo.

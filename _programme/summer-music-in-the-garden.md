@@ -1,6 +1,6 @@
 ---
 title: Summer music in the garden
-venue: Ashburnham garden
+venue: Ashburnham Garden
 date: 20150612
 layout: default
 details: true

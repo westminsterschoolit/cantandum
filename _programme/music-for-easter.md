@@ -2,7 +2,7 @@
 title: Music for Easter
 layout: default
 details: true
-venue: "St Stephen’s Rochester Row"
+venue: "St Stephen’s, Rochester Row"
 description: "A programme featuring Lhéritier’s Surrexit pastor bonus and Stainer’s The Crucifixion, celebrating Easter with Renaissance and Victorian choral music."
 date: 20100303
 composers:

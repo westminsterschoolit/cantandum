@@ -8,20 +8,21 @@ date: 20211114
 composers:
     - 
 ---
-Victoria  Officium defunctorum
-Music and readings for Remembrance
-Silence – a sonnet for Remembrance Day (Malcolm Guite)
-Victoria Taedet animam meam
-De profundis (Psalm 130)
-Victoria Introit, Kyrie
-The Bright Field (R.S. Thomas)
-Victoria Gradual, Offertory
-Peace (George Herbert)
-Victoria Sanctus and Benedictus, Agnus Dei, Communion
-Be near me when my light is low (Alfred, Lord Tennyson)
-Victoria Versa est in luctum
-Bring us, O Lord God (John Donne)
-Victoria Libera me
+> Victoria Officium defunctorum  
+> Music and readings for Remembrance  
+> Silence – a sonnet for Remembrance Day (Malcolm Guite)  
+> Victoria Taedet animam meam  
+> De profundis (Psalm 130)  
+> Victoria Introit, Kyrie  
+> The Bright Field (R.S. Thomas)  
+> Victoria Gradual, Offertory  
+> Peace (George Herbert)  
+> Victoria Sanctus and Benedictus, Agnus Dei, Communion  
+> Be near me when my light is low (Alfred, Lord Tennyson)  
+> Victoria Versa est in luctum  
+> Bring us, O Lord God (John Donne)  
+> Victoria Libera me  
+{: .blockquote }
 
 
 Gilly French, Helen Prentice, Helena Bickley-Percival, Catharine Robinson,

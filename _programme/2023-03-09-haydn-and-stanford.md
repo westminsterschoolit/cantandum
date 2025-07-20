@@ -11,9 +11,9 @@ composers:
     - Charles Villiers Stanford
 ---
 
-Haydn         Te Deum no. 2 in C
-Stanford    Songs of the Fleet
-Haydn        Nelson Mass
+- Haydn Te Deum no. 2 in C
+- Stanford Songs of the Fleet
+- Haydn Nelson Mass
 
 
 Franz Josef Haydn (1732-1809) was in his time the most celebrated composer in Europe, admired and revered by the public and by his peers. His works are characterised by a joyous exuberance, creative invention, classical elegance and intellectual power.

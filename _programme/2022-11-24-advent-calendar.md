@@ -10,20 +10,19 @@ composers:
     - Ledger
     - Gibbons
 ---
-Ledger Advent Calendar
-Gibbons This is the record of John
-Guerrero Canite tuba
-Byrd Vigilate
-Bach, J.S. Komm Jesu, komm
-Lloyd Adam our father
-Praetorius, H. Magnificat quinti toni, with Christmas interpolations
-Victoria O magnum mysterium
-Bach, J.S. Der Geist hilft
-St Stephen’s, Rochester Row
-FLOREAT
-Gilly French, Helen Prentice, Helena Bickley-Percival, Catharine Robertson
-Jonathan Bull, Manvinder Rattan, Iain Butler, Robert Harvey Wood, Willow Northeald
-with Dewi Rees organ
+> Ledger Advent Calendar  
+> Gibbons This is the record of John  
+> Guerrero Canite tuba  
+> Byrd Vigilate  
+> Bach, J.S. Komm Jesu, komm  
+> Lloyd Adam our father  
+> Praetorius, H. Magnificat quinti toni, with Christmas interpolations  
+> Victoria O magnum mysterium  
+> Bach, J.S. Der Geist hilft  
+> St Stephen’s, Rochester Row
+
+## FLOREAT
+Gilly French, Helen Prentice, Helena Bickley-Percival, Catharine Robertson Jonathan Bull, Manvinder Rattan, Iain Butler, Robert Harvey Wood, Willow Northeald with Dewi Rees organ
 
  
 

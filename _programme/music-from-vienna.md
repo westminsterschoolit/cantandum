@@ -2,7 +2,7 @@
 title: Music from Vienna
 layout: default
 details: true
-venue: Ashburnham garden
+venue: Ashburnham Garden
 date: 20130614
 image: /assets/images/screen-shot-2016-04-11-at-21-37-15.webp
 description: A concert featuring works by Fux and Haydn, showcasing Vienna’s rich musical heritage and the evolution from Baroque to Classical styles.
