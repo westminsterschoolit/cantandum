@@ -22,7 +22,7 @@ composers:
 > Victoria Versa est in luctum  
 > Bring us, O Lord God (John Donne)  
 > Victoria Libera me  
-{: .blockquote }
+{: .blockquoteCantandum }
 
 
 Gilly French, Helen Prentice, Helena Bickley-Percival, Catharine Robinson,

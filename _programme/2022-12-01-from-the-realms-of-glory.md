@@ -10,8 +10,8 @@ composers:
     - Rutter
     - Durante
 ---
-> **Programme**
->
+## Programme**
+
 > - Rutter: Angels’ Carol
 > - Durante: Magnificat
 > - Ledger: The Voice of the Angel Gabriel
@@ -23,9 +23,8 @@ composers:
 > - Harris: Faire is the Heaven
 > - Bairstow: Let All Mortal Flesh Keep Silence
 > - Vaughan Williams: Te Deum in G
->
-> *Venue: St Matthew’s, Westminster*
- 
+{: .blockquoteCantandum }
+
 
 Tonight’s concert is on the theme on angels, not all of them Christmas ones. What you will hear this evening is music that is about, directly or indirectly, or has been inspired by, these timelessly enduring beings.
 

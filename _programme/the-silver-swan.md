@@ -10,14 +10,14 @@ date: 20241114
 
 The Westminster-based chamber choir Cantandum, renowned for interesting programming and the quality of its vocal sound, presents a lovely programme on the theme of endings and beginnings.
 
-Gibbons – The Silver Swan  
-Lassus – Bonjour, mon coeur. 
-Greene – Lord, let me know mine end 
-Gabrieli - Nunc dimittis à 14  
-Howells - This is the little door  
-Mendelssohn – Ave Maria  
-Bainton – And I saw a new heaven  
-Rheinberger – Requiem in D minor  
+- Gibbons – The Silver Swan  
+- Lassus – Bonjour, mon coeur  
+- Greene – Lord, let me know mine end  
+- Gabrieli – Nunc dimittis à 14  
+- Howells – This is the little door  
+- Mendelssohn – Ave Maria  
+- Bainton – And I saw a new heaven  
+- Rheinberger – Requiem in D minor  
 
 ## CANTANDUM
 Organ – Jonathan Dods

@@ -10,13 +10,17 @@ composers:
     - Joseph Haydn
 ---
 
-Soloists Shafali Jalota (soprano), Hugh Benson (tenor), Tom Kennedy (bass)
+## Soloists 
+Shafali Jalota (soprano), Hugh Benson (tenor), Tom Kennedy (bass)
 
 ## Cantandum 
 Nina Kopparhed, Helen Prentice, Rachel Tocknell, Caitlin Walsh soprano; Helena Bickley-Percival, Lucy Chambers, Julie Edwards, Isabel Nesbit, Delia Robertson alto; Charlie Dart, Nick Dykes, Tony Kyriakides, Kevin Walsh tenor; Iain Butler, Hunter Danskin, Jeremy Gray, Robert Harvey Wood, James Kazi, William Nicholson bass.
 
-Piano duet Jonathan Dods, Martin Ford
-Conductor Gilly French
+## Piano duet 
+Jonathan Dods, Martin Ford
+
+## Conductor 
+Gilly French
 
 Haydn’s The Creation is a magnificent piece. One of the greatest of 18th century works, it combines mature classical style with sensuously beautiful vocal writing. It was premiered in 1799 to ecstatic reception anduniversal praise. It is an inspired response to Handel’s oratorios, which Haydn heard for the first time duringhis two visits to London earlier in the decade.
 

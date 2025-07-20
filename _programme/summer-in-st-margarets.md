@@ -8,12 +8,12 @@ date: 20160602
 composers:
     - Giovanni Pierluigi da Palestrina
 ---
-Palestrina Sicut cervus
-Palestrina Tu es Petrus
-Monteverdi Beatus vir
-Handel Chandos anthem 11: Let God arise
-Duruflé: Four motets on Gregorian themes
-Langlais: Messe solennelle
+- Palestrina Sicut cervus
+- Palestrina Tu es Petrus
+- Monteverdi Beatus vir
+- Handel Chandos anthem 11: Let God arise
+- Duruflé: Four motets on Gregorian themes
+- Langlais: Messe solennelle
 
 Giovanni Pierluigi da Palestrina (1525-1594) was one of the towering figures of late sixteenth-century music and at the time of his death was considered by some to be the finest musician in the world. He was primarily a prolific composer of masses and motets. Sicut cervus (1581) has always been one of his most familiar works and is a model of imitative polyphony. The text is from Psalm 42 – the deer thirsts for water just as the soul thirsts for the fountain of Christianity. Tu es Petrus and its seconda pars, Quodcumque ligaveris, are a resplendent pair of motets which date from 1572. The motet, to a text from the Tract for the feast of St Peter’s Chair in Rome, is written in a bright major tonality and in a clear antiphonal structure, resulting in gloriously joyous quality throughout.
 

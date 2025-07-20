@@ -17,7 +17,8 @@ image: /assets/images/481995120_2537966796409609_9212890402848070929_n.jpg
 > Victoria Vidi speciosam, Vadam et circuibo, Nigra sum  
 > Lassus Surge propera  
 > Byrd Laudibus in sanctis
-{: .blockquote }
+{: .blockquoteCantandum }
+
 
 ## FLOREAT
 Gilly French, Helen Prentice, Helena Bickley-Percival, Catharine Robertson

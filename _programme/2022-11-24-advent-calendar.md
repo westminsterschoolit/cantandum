@@ -20,6 +20,7 @@ composers:
 > Victoria O magnum mysterium  
 > Bach, J.S. Der Geist hilft  
 > St Stephen’s, Rochester Row
+{: .blockquoteCantandum }
 
 ## FLOREAT
 Gilly French, Helen Prentice, Helena Bickley-Percival, Catharine Robertson Jonathan Bull, Manvinder Rattan, Iain Butler, Robert Harvey Wood, Willow Northeald with Dewi Rees organ

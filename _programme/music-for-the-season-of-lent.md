@@ -11,14 +11,14 @@ composers:
   - Thomas Tomkins
   - Gabriel Fauré
 ---
-<blockquote class="blockquote">
-<p>Carissimi Vanitas vanitatum
-Zelenka Lamentation I for Maundy Thursday
-Tomkins When David heard that Absalon was slain
-Bruckner Christus factus est pro nobis
-Walton A Litany
-Fauré Requiem</p>
-</blockquote>
+
+> - Carissimi *Vanitas vanitatum*
+> - Zelenka *Lamentation I for Maundy Thursday*
+> - Tomkins *When David heard that Absalon was slain*
+> - Bruckner *Christus factus est pro nobis*
+> - Walton *A Litany*
+> - Fauré *Requiem*
+{: .blockquoteCantandum }
 
 Giacomo Carissimi (1605–1674) was, in his time, the most celebrated composer in Rome.  His Latin oratorios, of which there are a considerable number, are strongly rhetorical and had a great ability to move the audience: ‘truly imbued with the essence and life of the spirit’ in the words of a commentator of the day.  Vanitas vanitatum (Vanity of vanities) is thought to be one of his earliest oratorios – if indeed it can be described as an oratorio as it is undramatic and without dialogues or characters.  In Carissimi’s day an oratorio was a work to be performed during the congregation of a religious brotherhood, usually during Lent.  Whatever, it is a stunning setting based on a text from Ecclesiastes in which a choir and five individuals meditate on the passing of earthly life.  The soloists are the protagonists of the drama and poetry of the text, with simple melodic lines and heightened diction where emotional or musical content was important – indeed Carissimi is often credited with the ‘perfection of the recitative style’ – whereas the choruses concentrate on direct textural expression without personal emotion.
 
