@@ -27,7 +27,29 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Sorts+Mill+Goudy:ital@0&display=swap" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="Programme Notes Feed" href="/programme-notes/feed.xml">
+<style>#page-content li {
+    list-style: none;
+    position: relative;
+    padding-left: 25px;
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
 
+#page-content li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 16px;
+    height: 16px;
+    background-image: url('/assets/images/rose-cropped.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+</style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top shadow mb-6">
