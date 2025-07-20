@@ -13,6 +13,7 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.2)
+    ffi (1.17.2-x86_64-darwin)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
@@ -44,6 +45,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-webp (1.0.0)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
@@ -91,6 +93,7 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-seo-tag (~> 2.7)
   jekyll-sitemap (~> 1.4)
+  jekyll-webp
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
