@@ -1,7 +1,7 @@
 ---
 title: "O sing unto the Lord"
 layout: default
-venue: "St Margaret's Church, Westminster"
+venue: "St Margaret's, Westminster"
 details: true
 description: "A concert celebrating the joy of singing praises to the Lord with works that call us to worship."
 date: 20191206
