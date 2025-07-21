@@ -9,7 +9,7 @@ composers:
     - George Frideric Handel
     - Wolfgang Amadeus Mozart
 ---
-A masque in two acts. 
+## A masque in two acts. 
 
 Music by G.F. Handel; arranged by W.A. Mozart (K 566)
 
