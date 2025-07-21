@@ -11,7 +11,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Sorts+Mill+Goudy:ital@0&display=swap" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="Programme Notes Feed" href="{{ site.baseurl }}/programme-notes/feed.xml">
 <style>
-#page-content li {
+#page-content li, .composers-list li
+ {
     list-style: none;
     position: relative;
     padding-left: 25px;
@@ -19,7 +20,7 @@
     line-height: 1.5;
 }
 
-#page-content li::before {
+#page-content li::before, .composers-list li::before {
     content: "";
     position: absolute;
     left: 0;
@@ -94,7 +95,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-10">
-                        <h2>Composers</h2>
+                        <h2 class="fw-bold">Composers</h2>
                         <ul>
                             {% for composer in page.composers %}
                                 <li>{{ composer }}</li>
