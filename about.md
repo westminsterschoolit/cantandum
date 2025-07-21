@@ -18,19 +18,20 @@ Our repertory ranges from the sixteenth to the twenty-first centuries, and we pe
 
 ## Reviews
 
-![An image of the Choir]({{site.baseurl}}/assets/images/choir.jpg){: .img-fluid }
-
 > Cantandum is a chamber choir with numerous things in its favour, not least spirit of attack, excitingly good enunciation and subtle dynamic grading. But what one admires above all is the flair that [Gilly French] brings to the choir’s programming… competent preparation… gift for choosing exactly the right pacings… a constantly rewarding concert. 
 {: .blockquoteCantandum }
 
-The Church Times{: .fw-bold }
+The Church Times
+{: .fw-bold }
 
 > …imaginative repertoire – Lhéretier, Eccard, Vanhal, Telemann, Schütz, Buxtehude, Linley – is one of Cantandum’s marked strong points and the main item, Carissimi’s rarely-heard oratorio Jonah, could not have had a better case made for it, delivered not only with assurance, but intensity and pathos… the choir’s balances were ideally modulated by conductor Gilly French… lower-voice passages were assured, and the tuning throughout was usually well-nigh perfect. 
 {: .blockquoteCantandum }
 
-The Church Times{: .fw-bold }
+The Church Times
+{: .fw-bold }
 
 > In this appealing performance… the expressive impact and charm of Greene’s score was skilfully and engagingly communicated… conducted with unfussy precision by Gilly French. 
 {: .blockquoteCantandum }
 
-Opera Today{: .fw-bold }
+Opera Today
+{: .fw-bold }
