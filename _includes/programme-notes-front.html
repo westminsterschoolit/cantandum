@@ -10,7 +10,7 @@
                         <div class="col-md-4 mb-4">
                             
                                 <div class="card h-100">
-                                    {% picture {{ programme.image }} jpt-mobile: {{ programme.image }} 16:9 center class="card-img-top img-fluid" style="height: 250px; object-fit: cover; width: 100%;" --alt {{ programme.title }} %}
+                                    {% picture {{ programme.image }} jpt-webp: {{ programme.image }} 16:9 center class="card-img-top img-fluid" style="height: 250px; object-fit: cover; width: 100%;" --alt {{ programme.title }} %}
                                     <div class="card-body">
                                         <a href="{{ programme.url | relative_url }}" class="text-decoration-none text-reset stretched-link"><h2 class="card-title">{{ programme.title }}</h2></a>
                                         {% if programme.date %}
