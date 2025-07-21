@@ -3,12 +3,10 @@ layout: default
 title: Repertory
 permalink: /repertory/
 description: "Cantandum's repertoire since 2003: a diverse selection of choral works spanning centuries, styles, and ensembles, performed with passion and excellence."
+image: /assets/images/cantandum-cloisters-2.webp
 ---
 
-![]({{site.baseurl}}/assets/images/cantandum-cloisters-2.webp){:.img-fluid}
-		
-
-**A list of (nearly) everything we have performed since our foundation in June 2003**
+## A list of (nearly) everything we have performed since our foundation in June 2003
 
 \* means performed with orchestra or instrumental ensemble as appropriate; other pieces are a capella or organ-accompanied
 
