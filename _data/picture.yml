@@ -6,7 +6,9 @@ media_queries:
   lg: 'min-width: 992px and max-width: 1199.98px'
   xl: 'min-width: 1200px and max-width: 1399.98px'
   xxl: 'min-width: 1400px'
-
+ignore_missing_images: true
+suppress_warnings: true
+fast_build: true
 presets:
   default:
     formats: [webp, original]
