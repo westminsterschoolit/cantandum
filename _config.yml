@@ -74,7 +74,8 @@ sass:
     - _sass
     - node_modules
   style: compressed 
-
+picture: 
+  ignore_missing_images: true
 pagination:
   enabled: true
   per_page: 5 # How many items per page
