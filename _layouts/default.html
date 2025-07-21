@@ -58,7 +58,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-12 text-center py-2">
-                    {% include picture.html %}
+                    {% picture {{ page.image }} jpt-mobile: {{ page.image }} 16:9 center class="img-fluid" --alt {{ page.title }}  %}
                 </div>
             </div>
         </div>
