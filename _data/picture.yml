@@ -1,0 +1,58 @@
+source: assets/images
+media_queries:
+  xs: 'max-width: 575.98px'
+  sm: 'min-width: 576px and max-width: 767.98px'
+  md: 'min-width: 768px and max-width: 991.98px'
+  lg: 'min-width: 992px and max-width: 1199.98px'
+  xl: 'min-width: 1200px and max-width: 1399.98px'
+  xxl: 'min-width: 1400px'
+
+presets:
+  default:
+    formats: [webp, original]
+    widths: [320, 576, 768, 992, 1200, 1400]
+    sizes:
+      xs: 100vw
+      sm: 540px
+      md: 720px
+      lg: 960px
+      xl: 1140px
+      xxl: 1320px
+    size: 100vw
+    dimension_attributes: true
+    attributes: {}
+
+  webp:
+    formats: [webp, original]
+
+  avif:
+    formats: [avif, webp, original]
+
+  loaded:
+    formats: [avif, jp2, webp, original]
+    dimension_attributes: true
+
+  thumbnail:
+    base_width: 150
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 150
+    formats: [webp, original]
+    attributes:
+      picture: 'class="img-thumbnail"'
+
+  avatar:
+    crop: 1:1
+    base_width: 100
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 100
+
+  lazy:
+    markup: data_auto
+    formats: [webp, original]
+    attributes:
+      parent: class="lazy img-fluid"
+
+  direct:
+    markup: direct_url
+    fallback_format: webp
+    fallback_width: 576
