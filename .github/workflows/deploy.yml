@@ -22,6 +22,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      
+      - name: Install libvips and dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libvips libvips-dev
+        
+          sudo apt-get install -y build-essential gcc g++ make pkg-config \
+            libglib2.0-dev libexpat1-dev libpng-dev libjpeg-dev \
+            libtiff-dev libexif-dev libwebp-dev libheif-dev librsvg2-dev \
+            libimagequant-dev libcfitsio-dev libgsf-1-dev liblcms2-dev \
+            libopenexr-dev libpoppler-glib-dev libspectrum-dev \
+            libxml2-dev zlib1g-dev
+
+      - name: Verify libvips installation
+        run: vips --version
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
